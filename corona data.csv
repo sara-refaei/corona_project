@@ -1,0 +1,4011 @@
+country name,province,confirmed,death
+Afghanistan,,175525,7636
+Albania,,272412,3483
+Algeria,,265346,6860
+Andorra,,38794,152
+Angola,,98855,1900
+Antarctica,,11,0
+Antigua and Barbuda,,7461,135
+Argentina,,8955458,126955
+Armenia,,421592,8560
+Australia,Australian Capital Territory,57278,34
+Australia,New South Wales,1421796,1964
+Australia,Northern Territory,43986,31
+Australia,Queensland,612629,615
+Australia,South Australia,170346,219
+Australia,Tasmania,54555,26
+Australia,Victoria,1105776,2619
+Australia,Western Australia,29839,12
+Austria,,2972647,15113
+Azerbaijan,,789883,9558
+Bahamas,,33180,771
+Bahrain,,532265,1462
+Bangladesh,,1948471,29097
+Barbados,,56551,323
+Belarus,,934187,6608
+Belgium,Antwerp,547514,0
+Belgium,Brussels,415235,0
+Belgium,East Flanders,463641,0
+Belgium,Flemish Brabant,334041,0
+Belgium,Hainaut,419566,0
+Belgium,Liege,348523,0
+Belgium,Limburg,257470,0
+Belgium,Luxembourg,94955,0
+Belgium,Namur,162813,0
+Belgium,Unknown,53288,30313
+Belgium,Walloon Brabant,136593,0
+Belgium,West Flanders,375483,0
+Belize,,56976,652
+Benin,,26575,163
+Bhutan,,15946,7
+Bolivia,,896315,21470
+Bosnia and Herzegovina,,372817,15599
+Botswana,,263950,2619
+Brazil,Acre,123060,1985
+Brazil,Alagoas,293873,6770
+Brazil,Amapa,160169,2116
+Brazil,Amazonas,576542,14134
+Brazil,Bahia,1512970,29418
+Brazil,Ceara,1232276,26504
+Brazil,Distrito Federal,687012,11488
+Brazil,Espirito Santo,1029872,14208
+Brazil,Goias,1199520,25925
+Brazil,Maranhao,417031,10838
+Brazil,Mato Grosso,714295,14779
+Brazil,Mato Grosso do Sul,510376,10423
+Brazil,Minas Gerais,3249737,60079
+Brazil,Para,729850,17926
+Brazil,Paraiba,583564,10142
+Brazil,Parana,2369525,42587
+Brazil,Pernambuco,855083,21177
+Brazil,Piaui,366202,7691
+Brazil,Rio Grande do Norte,482421,8079
+Brazil,Rio Grande do Sul,2197750,38606
+Brazil,Rio de Janeiro,2022417,72067
+Brazil,Rondonia,382076,7107
+Brazil,Roraima,154258,2137
+Brazil,Santa Catarina,1638500,21518
+Brazil,Sao Paulo,5087770,165667
+Brazil,Sergipe,321838,6276
+Brazil,Tocantins,300114,4120
+Brunei,,100173,155
+Bulgaria,,1107888,35995
+Burkina Faso,,20751,375
+Burma,,602321,19398
+Burundi,,38209,38
+Cabo Verde,,55904,401
+Cambodia,,133263,3043
+Cameroon,,119322,1926
+Canada,Alberta,529736,3986
+Canada,British Columbia,351415,2929
+Canada,Diamond Princess,0,1
+Canada,Grand Princess,13,0
+Canada,Manitoba,132295,1703
+Canada,New Brunswick,40654,313
+Canada,Newfoundland and Labrador,28103,72
+Canada,Northwest Territories,9400,20
+Canada,Nova Scotia,47089,212
+Canada,Nunavut,3200,5
+Canada,Ontario,1131621,12667
+Canada,Prince Edward Island,18905,16
+Canada,Quebec,932174,14126
+Canada,Repatriated Travellers,13,0
+Canada,Saskatchewan,128289,1135
+Canada,Yukon,3533,22
+Central African Republic,,14320,113
+Chad,,7260,190
+Chile,Antofagasta,116482,1418
+Chile,Araucania,195467,1803
+Chile,Arica y Parinacota,53311,647
+Chile,Atacama,60258,430
+Chile,Aysen,22406,135
+Chile,Biobio,312257,3257
+Chile,Coquimbo,113030,1278
+Chile,Los Lagos,178265,1758
+Chile,Los Rios,97221,878
+Chile,Magallanes,47659,575
+Chile,Maule,210471,2119
+Chile,Metropolitana,1250345,21370
+Chile,Nuble,88290,791
+Chile,OHiggins,133410,1790
+Chile,Tarapaca,77541,950
+Chile,Unknown,43,0
+Chile,Valparaiso,274337,4084
+China,Anhui,1013,6
+China,Beijing,1583,9
+China,Chongqing,624,6
+China,Fujian,1590,1
+China,Gansu,407,2
+China,Guangdong,5558,8
+China,Guangxi,1237,2
+China,Guizhou,162,2
+China,Hainan,193,6
+China,Hebei,1536,7
+China,Heilongjiang,2098,13
+China,Henan,2699,22
+China,Hong Kong,551233,2869
+China,Hubei,68380,4512
+China,Hunan,1235,4
+China,Inner Mongolia,1662,1
+China,Jiangsu,1830,0
+China,Jiangxi,959,1
+China,Jilin,869,3
+China,Liaoning,1040,2
+China,Macau,82,0
+China,Ningxia,122,0
+China,Qinghai,30,0
+China,Shaanxi,2871,3
+China,Shandong,1464,7
+China,Shanghai,4677,7
+China,Shanxi,295,0
+China,Sichuan,1539,3
+China,Tianjin,1189,3
+China,Tibet,1,0
+China,Unknown,0,0
+China,Xinjiang,996,3
+China,Yunnan,1992,2
+China,Zhejiang,2299,1
+Colombia,Amazonas,7552,264
+Colombia,Antioquia,917041,18198
+Colombia,Arauca,16254,523
+Colombia,Atlantico,401757,10113
+Colombia,Bolivar,196811,3236
+Colombia,Boyaca,124643,2773
+Colombia,Caldas,116781,2521
+Colombia,Capital District,1761354,29218
+Colombia,Caqueta,24865,1015
+Colombia,Casanare,41534,994
+Colombia,Cauca,72082,1783
+Colombia,Cesar,106259,2665
+Colombia,Choco,18575,426
+Colombia,Cordoba,118866,3924
+Colombia,Cundinamarca,317322,7247
+Colombia,Guainia,2753,37
+Colombia,Guaviare,5582,105
+Colombia,Huila,100153,3490
+Colombia,La Guajira,56195,1519
+Colombia,Magdalena,114668,3619
+Colombia,Meta,104793,2529
+Colombia,Narino,104349,3297
+Colombia,Norte de Santander,119398,5061
+Colombia,Putumayo,20456,769
+Colombia,Quindio,70731,2051
+Colombia,Risaralda,106184,2464
+Colombia,San Andres y Providencia,10147,154
+Colombia,Santander,282475,8136
+Colombia,Sucre,65602,1713
+Colombia,Tolima,124165,3990
+Colombia,Unknown,0,300
+Colombia,Valle del Cauca,539529,14975
+Colombia,Vaupes,1887,19
+Colombia,Vichada,3392,61
+Comoros,,8051,160
+Congo (Brazzaville),,24041,378
+Congo (Kinshasa),,86271,1335
+Costa Rica,,820445,8142
+Cote d'Ivoire,,81571,795
+Croatia,,1067589,15276
+Cuba,,1074469,8502
+Cyprus,,341383,886
+Czechia,,3653041,39032
+Denmark,Faroe Islands,34658,28
+Denmark,Greenland,11832,20
+Denmark,,2908721,5008
+Diamond Princess,,712,13
+Djibouti,,15564,189
+Dominica,,11462,62
+Dominican Republic,,576220,4372
+Ecuador,,843760,35316
+Egypt,,493658,24257
+El Salvador,,156364,4093
+Equatorial Guinea,,15894,183
+Eritrea,,9718,103
+Estonia,,523279,2320
+Eswatini,,69351,1391
+Ethiopia,,469095,7482
+Fiji,,64060,834
+Finland,,703052,2573
+France,French Guiana,77931,394
+France,French Polynesia,69586,643
+France,Guadeloupe,126256,919
+France,Martinique,122782,899
+France,Mayotte,36703,187
+France,New Caledonia,59163,304
+France,Reunion,310181,680
+France,Saint Barthelemy,3780,6
+France,Saint Pierre and Miquelon,1220,1
+France,St Martin,9912,63
+France,Wallis and Futuna,454,7
+France,,22599285,136694
+Gabon,,47564,303
+Gambia,,11963,365
+Georgia,,1629930,16456
+Germany,Baden-Wurttemberg,2362130,14562
+Germany,Bayern,3099116,21759
+Germany,Berlin,782238,4288
+Germany,Brandenburg,571838,5276
+Germany,Bremen,122686,693
+Germany,Hamburg,367922,2336
+Germany,Hessen,1156773,9337
+Germany,Mecklenburg-Vorpommern,283853,1836
+Germany,Niedersachsen,1206167,7656
+Germany,Nordrhein-Westfalen,3395588,22706
+Germany,Rheinland-Pfalz,658477,5082
+Germany,Saarland,180510,1431
+Germany,Sachsen,1025717,14401
+Germany,Sachsen-Anhalt,465490,4819
+Germany,Schleswig-Holstein,366226,2177
+Germany,Thuringen,460184,6669
+Germany,Unknown,83957,0
+Ghana,,160667,1444
+Greece,,2561503,26366
+Grenada,,13690,216
+Guatemala,,798400,17116
+Guinea,,36427,440
+Guinea-Bissau,,8039,168
+Guyana,,63090,1224
+Haiti,,30430,827
+Holy See,,29,0
+Honduras,,414714,10812
+Hungary,,1809917,44549
+Iceland,,153244,76
+India,Andaman and Nicobar Islands,10025,129
+India,Andhra Pradesh,2318617,14729
+India,Arunachal Pradesh,64477,296
+India,Assam,724170,6639
+India,Bihar,830321,12255
+India,Chandigarh,91826,1165
+India,Chhattisgarh,1151658,14033
+India,Dadra and Nagar Haveli and Daman and Diu,11440,4
+India,Delhi,1862255,26140
+India,Goa,245162,3829
+India,Gujarat,1223418,10938
+India,Haryana,983453,10580
+India,Himachal Pradesh,283894,4124
+India,Jammu and Kashmir,453347,4749
+India,Jharkhand,434756,5315
+India,Karnataka,3943108,40006
+India,Kerala,6516524,66462
+India,Ladakh,28144,228
+India,Lakshadweep,11401,52
+India,Madhya Pradesh,1040378,10733
+India,Maharashtra,7869857,143745
+India,Manipur,136931,2116
+India,Meghalaya,93625,1586
+India,Mizoram,219630,665
+India,Nagaland,35441,757
+India,Odisha,1286245,9102
+India,Puducherry,165756,1962
+India,Punjab,758562,17722
+India,Rajasthan,1281775,9547
+India,Sikkim,39098,444
+India,Tamil Nadu,3451469,38021
+India,Telangana,790043,4111
+India,Tripura,100869,919
+India,Unknown,0,0
+India,Uttar Pradesh,2069494,23486
+India,Uttarakhand,436804,7688
+India,West Bengal,2016094,21182
+Indonesia,,5826589,151135
+Iran,,7107167,138433
+Iraq,,2310539,25082
+Ireland,,1328644,6578
+Israel,,3690974,10322
+Italy,Abruzzo,273273,3006
+Italy,Basilicata,87850,782
+Italy,Calabria,233237,2158
+Italy,Campania,1240518,9854
+Italy,Emilia-Romagna,1204720,16033
+Italy,Friuli Venezia Giulia,313502,4819
+Italy,Lazio,1112165,10529
+Italy,Liguria,354228,5142
+Italy,Lombardia,2373318,38845
+Italy,Marche,340627,3619
+Italy,Molise,41382,577
+Italy,P.A. Bolzano,192802,1420
+Italy,P.A. Trento,141504,1527
+Italy,Piemonte,994150,13109
+Italy,Puglia,768082,7760
+Italy,Sardegna,187466,2104
+Italy,Sicilia,831421,9681
+Italy,Toscana,880603,9179
+Italy,Umbria,193798,1754
+Italy,Valle d'Aosta,31814,522
+Italy,Veneto,1362882,13937
+Jamaica,,128246,2835
+Japan,Aichi,358069,1785
+Japan,Akita,11519,40
+Japan,Aomori,25470,72
+Japan,Chiba,298981,1455
+Japan,Ehime,19383,121
+Japan,Fukui,15981,40
+Japan,Fukuoka,256765,1030
+Japan,Fukushima,27461,189
+Japan,Gifu,57695,292
+Japan,Gunma,57235,264
+Japan,Hiroshima,80234,423
+Japan,Hokkaido,188241,1837
+Japan,Hyogo,289618,1936
+Japan,Ibaraki,85211,329
+Japan,Ishikawa,28240,176
+Japan,Iwate,13149,64
+Japan,Kagawa,22052,86
+Japan,Kagoshima,34689,138
+Japan,Kanagawa,505130,1837
+Japan,Kochi,13709,89
+Japan,Kumamoto,54361,253
+Japan,Kyoto,135668,509
+Japan,Mie,45896,255
+Japan,Miyagi,46200,156
+Japan,Miyazaki,20477,100
+Japan,Nagano,34172,156
+Japan,Nagasaki,29105,111
+Japan,Nara,62832,303
+Japan,Niigata,32572,80
+Japan,Oita,26563,111
+Japan,Okayama,53641,211
+Japan,Okinawa,106661,430
+Japan,Osaka,707967,4210
+Japan,Port Quarantine,4463,4
+Japan,Saga,26238,68
+Japan,Saitama,350092,1227
+Japan,Shiga,56108,159
+Japan,Shimane,7290,8
+Japan,Shizuoka,100292,357
+Japan,Tochigi,50739,214
+Japan,Tokushima,13030,76
+Japan,Tokyo,1086519,3867
+Japan,Tottori,7578,10
+Japan,Toyama,21767,68
+Japan,Unknown,8,0
+Japan,Wakayama,24637,106
+Japan,Yamagata,13486,74
+Japan,Yamaguchi,23702,147
+Japan,Yamanashi,18859,57
+Jordan,,1654677,13882
+Kazakhstan,,1392427,18983
+Kenya,,323129,5641
+Kiribati,,3006,13
+"Korea, South",,5539650,9646
+Kosovo,,226729,3122
+Kuwait,,624573,2549
+Kyrgyzstan,,200671,2969
+Laos,,144759,634
+Latvia,,719813,5384
+Lebanon,,1081463,10176
+Lesotho,,32716,697
+Liberia,,7387,294
+Libya,,499132,6321
+Liechtenstein,,13471,79
+Lithuania,,944968,8562
+Luxembourg,,189830,1000
+MS Zaandam,,9,2
+Madagascar,,63791,1373
+Malawi,,85461,2620
+Malaysia,Johor,339741,4197
+Malaysia,Kedah,258795,2371
+Malaysia,Kelantan,229386,1342
+Malaysia,Melaka,104124,1028
+Malaysia,Negeri Sembilan,161298,1385
+Malaysia,Pahang,144552,879
+Malaysia,Perak,163154,1582
+Malaysia,Perlis,14121,155
+Malaysia,Pulau Pinang,231211,1850
+Malaysia,Sabah,355892,3057
+Malaysia,Sarawak,272142,1636
+Malaysia,Selangor,1017168,10293
+Malaysia,Terengganu,106647,802
+Malaysia,Unknown,0,0
+Malaysia,W.P. Kuala Lumpur,278542,2738
+Malaysia,W.P. Labuan,18992,152
+Malaysia,W.P. Putrajaya,15434,30
+Maldives,,173666,297
+Mali,,30402,725
+Malta,,72268,612
+Marshall Islands,,7,0
+Mauritania,,58656,981
+Mauritius,,169796,904
+Mexico,Aguascalientes,61896,3471
+Mexico,Baja California,130298,12115
+Mexico,Baja California Sur,101481,2622
+Mexico,Campeche,33570,2227
+Mexico,Chiapas,34977,2391
+Mexico,Chihuahua,126494,9834
+Mexico,Ciudad de Mexico,1368159,42359
+Mexico,Coahuila,143749,8724
+Mexico,Colima,54254,2181
+Mexico,Durango,67757,3563
+Mexico,Guanajuato,277441,14759
+Mexico,Guerrero,97817,6678
+Mexico,Hidalgo,90040,8334
+Mexico,Jalisco,234773,19252
+Mexico,Mexico,529522,46780
+Mexico,Michoacan,93277,8751
+Mexico,Morelos,66937,5182
+Mexico,Nayarit,57757,3139
+Mexico,Nuevo Leon,310054,14863
+Mexico,Oaxaca,118239,6083
+Mexico,Puebla,167248,16302
+Mexico,Queretaro,140362,6139
+Mexico,Quintana Roo,91107,4337
+Mexico,San Luis Potosi,180943,7418
+Mexico,Sinaloa,120203,9566
+Mexico,Sonora,162739,9995
+Mexico,Tabasco,189410,6017
+Mexico,Tamaulipas,141507,7913
+Mexico,Tlaxcala,43201,3058
+Mexico,Unknown,0,0
+Mexico,Veracruz,172939,15991
+Mexico,Yucatan,108510,6537
+Mexico,Zacatecas,67332,3827
+Micronesia,,1,0
+Moldova,,506222,11304
+Monaco,,9654,51
+Mongolia,,914016,2177
+Montenegro,,231227,2690
+Morocco,,1161848,16029
+Mozambique,,225159,2198
+Namibia,,157366,4014
+Nepal,,977709,11949
+Netherlands,Aruba,33732,212
+Netherlands,"Bonaire, Sint Eustatius and Saba",7633,31
+Netherlands,Curacao,39185,264
+Netherlands,Drenthe,159931,438
+Netherlands,Flevoland,158925,324
+Netherlands,Friesland,233832,597
+Netherlands,Gelderland,824090,2698
+Netherlands,Groningen,200111,342
+Netherlands,Limburg,455848,2110
+Netherlands,Noord-Brabant,1083401,3607
+Netherlands,Noord-Holland,1142360,3267
+Netherlands,Overijssel,470829,1382
+Netherlands,Sint Maarten,9599,85
+Netherlands,Unknown,84139,21
+Netherlands,Utrecht,569102,1511
+Netherlands,Zeeland,143117,371
+Netherlands,Zuid-Holland,1470546,4987
+New Zealand,Cook Islands,2,0
+New Zealand,,286750,65
+Nicaragua,,18203,226
+Niger,,8774,307
+Nigeria,,254777,3142
+North Macedonia,,300398,9104
+Norway,,1333793,1753
+Oman,,385769,4249
+Pakistan,Azad Jammu and Kashmir,43149,790
+Pakistan,Balochistan,35403,377
+Pakistan,Gilgit-Baltistan,11598,191
+Pakistan,Islamabad,134736,1019
+Pakistan,Khyber Pakhtunkhwa,217690,6294
+Pakistan,Punjab,503279,13535
+Pakistan,Sindh,570934,8085
+Palau,,3888,6
+Panama,,758613,8125
+Papua New Guinea,,41533,639
+Paraguay,,645020,18510
+Peru,Amazonas,43598,1332
+Peru,Ancash,124283,7046
+Peru,Apurimac,38472,1607
+Peru,Arequipa,210750,10166
+Peru,Ayacucho,47860,2300
+Peru,Cajamarca,95346,4405
+Peru,Callao,145812,10437
+Peru,Cusco,116075,5094
+Peru,Huancavelica,25429,1253
+Peru,Huanuco,51696,2851
+Peru,Ica,102912,8871
+Peru,Junin,124954,7384
+Peru,La Libertad,145559,10849
+Peru,Lambayeque,104765,9186
+Peru,Lima,1594692,92474
+Peru,Loreto,57696,4365
+Peru,Madre de Dios,17645,835
+Peru,Moquegua,48089,1604
+Peru,Pasco,23744,1086
+Peru,Piura,156821,12974
+Peru,Puno,65013,4668
+Peru,San Martin,61623,3126
+Peru,Tacna,53526,2109
+Peru,Tumbes,26808,1678
+Peru,Ucayali,39316,3207
+Peru,Unknown,6455,345
+Philippines,,3669283,57182
+Poland,,5774938,113002
+Portugal,,3367469,21267
+Qatar,,358694,672
+Romania,,2781086,64156
+Russia,Adygea Republic,46098,924
+Russia,Altai Krai,249649,8164
+Russia,Altai Republic,32707,587
+Russia,Amur Oblast,97527,723
+Russia,Arkhangelsk Oblast,219403,1596
+Russia,Astrakhan Oblast,112290,2870
+Russia,Bashkortostan Republic,251090,5350
+Russia,Belgorod Oblast,120469,2071
+Russia,Bryansk Oblast,150934,3575
+Russia,Buryatia Republic,129248,2901
+Russia,Chechen Republic,42509,1072
+Russia,Chelyabinsk Oblast,299577,7103
+Russia,Chukotka Autonomous Okrug,5208,41
+Russia,Chuvashia Republic,74764,4471
+Russia,Dagestan Republic,90593,3554
+Russia,Ingushetia Republic,39654,544
+Russia,Irkutsk Oblast,262047,7982
+Russia,Ivanovo Oblast,102996,2905
+Russia,Jewish Autonomous Okrug,16182,486
+Russia,Kabardino-Balkarian Republic,59372,1792
+Russia,Kaliningrad Oblast,155183,1661
+Russia,Kalmykia Republic,48228,821
+Russia,Kaluga Oblast,97828,1371
+Russia,Kamchatka Krai,37923,598
+Russia,Karachay-Cherkess Republic,44228,977
+Russia,Karelia Republic,128192,1416
+Russia,Kemerovo Oblast,149978,2169
+Russia,Khabarovsk Krai,184503,1460
+Russia,Khakassia Republic,85161,2276
+Russia,Khanty-Mansi Autonomous Okrug,200589,2436
+Russia,Kirov Oblast,144715,907
+Russia,Komi Republic,163374,2969
+Russia,Kostroma Oblast,83909,1250
+Russia,Krasnodar Krai,236767,10500
+Russia,Krasnoyarsk Krai,350986,10163
+Russia,Kurgan Oblast,94062,1255
+Russia,Kursk Oblast,109386,2317
+Russia,Leningrad Oblast,175399,3385
+Russia,Lipetsk Oblast,134140,3359
+Russia,Magadan Oblast,19090,382
+Russia,Mari El Republic,43681,1065
+Russia,Mordovia Republic,62040,1293
+Russia,Moscow,2714926,41945
+Russia,Moscow Oblast,949024,14381
+Russia,Murmansk Oblast,129714,3150
+Russia,Nenets Autonomous Okrug,6957,93
+Russia,Nizhny Novgorod Oblast,386109,11205
+Russia,North Ossetia - Alania Republic,39575,1222
+Russia,Novgorod Oblast,94743,967
+Russia,Novosibirsk Oblast,240388,5115
+Russia,Omsk Oblast,196285,3958
+Russia,Orel Oblast,102709,1773
+Russia,Orenburg Oblast,198567,3769
+Russia,Penza Oblast,166289,5368
+Russia,Perm Krai,340647,8475
+Russia,Primorsky Krai,161443,1841
+Russia,Pskov Oblast,102511,1628
+Russia,Rostov Oblast,341838,10467
+Russia,Ryazan Oblast,107975,3122
+Russia,Saint Petersburg,1467836,32466
+Russia,Sakha (Yakutiya) Republic,164640,2040
+Russia,Sakhalin Oblast,62238,775
+Russia,Samara Oblast,356404,7238
+Russia,Saratov Oblast,221777,5712
+Russia,Smolensk Oblast,123116,2824
+Russia,Stavropol Krai,187967,6869
+Russia,Sverdlovsk Oblast,391277,10381
+Russia,Tambov Oblast,104674,2256
+Russia,Tatarstan Republic,128001,1766
+Russia,Tomsk Oblast,112424,760
+Russia,Tula Oblast,143034,4920
+Russia,Tver Oblast,151294,2609
+Russia,Tyumen Oblast,175418,4014
+Russia,Tyva Republic,44190,342
+Russia,Udmurt Republic,156953,3674
+Russia,Ulyanovsk Oblast,181510,4432
+Russia,Vladimir Oblast,141224,3260
+Russia,Volgograd Oblast,194813,6495
+Russia,Vologda Oblast,173797,3476
+Russia,Voronezh Oblast,348445,7822
+Russia,Yamalo-Nenets Autonomous Okrug,131320,1017
+Russia,Yaroslavl Oblast,144960,2551
+Russia,Zabaykalsky Krai,154940,2205
+Rwanda,,129569,1459
+Saint Kitts and Nevis,,5537,42
+Saint Lucia,,22811,364
+Saint Vincent and the Grenadines,,8321,106
+Samoa,,41,0
+San Marino,,14629,112
+Sao Tome and Principe,,5939,72
+Saudi Arabia,,748121,9013
+Senegal,,85775,1962
+Serbia,,1932814,15512
+Seychelles,,39605,163
+Sierra Leone,,7666,125
+Singapore,,885593,1110
+Slovakia,,2231352,18786
+Slovenia,,909863,6382
+Solomon Islands,,8491,118
+Somalia,,26400,1359
+South Africa,,3688423,99656
+South Sudan,,17034,137
+Spain,Andalusia,1359285,12931
+Spain,Aragon,400300,4904
+Spain,Asturias,196571,2515
+Spain,Baleares,257609,1223
+Spain,C. Valenciana,1311303,9070
+Spain,Canarias,304014,1599
+Spain,Cantabria,127062,778
+Spain,Castilla - La Mancha,476140,7109
+Spain,Castilla y Leon,659849,8306
+Spain,Catalonia,2303011,18478
+Spain,Ceuta,19012,145
+Spain,Extremadura,240447,2244
+Spain,Galicia,543395,3129
+Spain,La Rioja,90108,909
+Spain,Madrid,1611492,17546
+Spain,Melilla,20350,152
+Spain,Murcia,379297,2177
+Spain,Navarra,225068,1502
+Spain,Pais Vasco,657197,6275
+Spain,Unknown,0,0
+Sri Lanka,,654336,16361
+Sudan,,61643,4865
+Summer Olympics 2020,,865,0
+Suriname,,78654,1319
+Sweden,Blekinge,29136,153
+Sweden,Dalarna,67852,430
+Sweden,Gavleborg,72575,645
+Sweden,Gotland,11260,60
+Sweden,Halland,103098,412
+Sweden,Jamtland Harjedalen,32209,165
+Sweden,Jonkoping,85219,641
+Sweden,Kalmar,58916,311
+Sweden,Kronoberg,48357,370
+Sweden,Norrbotten,47667,355
+Sweden,Orebro,90393,425
+Sweden,Ostergotland,93307,755
+Sweden,Skane,334322,2227
+Sweden,Sormland,62095,554
+Sweden,Stockholm,564363,5093
+Sweden,Uppsala,87859,640
+Sweden,Varmland,63408,288
+Sweden,Vasterbotten,54952,271
+Sweden,Vasternorrland,52117,555
+Sweden,Vastmanland,74425,449
+Sweden,Vastra Gotaland,429422,2894
+Switzerland,,3008537,13213
+Syria,,55193,3105
+Taiwan*,,20999,853
+Tajikistan,,17786,125
+Tanzania,,33726,800
+Thailand,,3111857,23512
+Timor-Leste,,22777,129
+Togo,,36843,272
+Tonga,,1220,0
+Trinidad and Tobago,,131378,3669
+Tunisia,,1017907,27989
+Turkey,,14458881,95954
+US,Alabama,15555,205
+US,Alabama,55142,657
+US,Alabama,5456,94
+US,Alabama,6398,99
+US,Alabama,14856,227
+US,Alabama,2283,51
+US,Alabama,5041,124
+US,Alabama,32144,599
+US,Alabama,8445,158
+US,Alabama,5102,81
+US,Alabama,10774,195
+US,Alabama,2039,35
+US,Alabama,7059,97
+US,Alabama,4082,78
+US,Alabama,3550,68
+US,Alabama,13325,228
+US,Alabama,16208,245
+US,Alabama,2840,67
+US,Alabama,2932,56
+US,Alabama,9249,224
+US,Alabama,3778,95
+US,Alabama,24449,356
+US,Alabama,12436,222
+US,Alabama,8342,235
+US,Alabama,18659,316
+US,Alabama,22920,335
+US,Alabama,9968,161
+US,Alabama,28721,618
+US,Alabama,4949,93
+US,Alabama,9831,137
+US,Alabama,6200,156
+US,Alabama,1858,48
+US,Alabama,4672,101
+US,Alabama,4446,71
+US,Alabama,24959,484
+US,Alabama,14978,230
+US,Alabama,183690,2248
+US,Alabama,3687,62
+US,Alabama,23978,375
+US,Alabama,7605,153
+US,Alabama,37559,322
+US,Alabama,24747,276
+US,Alabama,2603,75
+US,Alabama,3840,78
+US,Alabama,88558,905
+US,Alabama,5155,104
+US,Alabama,8035,147
+US,Alabama,27149,376
+US,Alabama,112855,1593
+US,Alabama,5261,78
+US,Alabama,54517,891
+US,Alabama,35902,490
+US,Alabama,0,0
+US,Alabama,2089,43
+US,Alabama,5210,98
+US,Alabama,7419,128
+US,Alabama,5055,74
+US,Alabama,10012,83
+US,Alabama,60025,428
+US,Alabama,25165,404
+US,Alabama,2563,48
+US,Alabama,22213,358
+US,Alabama,11326,227
+US,Alabama,55307,738
+US,Alabama,0,0
+US,Alabama,18508,424
+US,Alabama,3719,57
+US,Alabama,2866,43
+US,Alabama,7558,122
+US,Alaska,1035,3
+US,Alaska,1679,2
+US,Alaska,101164,511
+US,Alaska,9666,40
+US,Alaska,0,0
+US,Alaska,807,1
+US,Alaska,1890,9
+US,Alaska,952,8
+US,Alaska,395,1
+US,Alaska,1558,11
+US,Alaska,27204,134
+US,Alaska,600,1
+US,Alaska,8016,20
+US,Alaska,17247,101
+US,Alaska,3841,21
+US,Alaska,4882,11
+US,Alaska,3916,12
+US,Alaska,34016,234
+US,Alaska,5558,5
+US,Alaska,4294,11
+US,Alaska,4305,14
+US,Alaska,699,3
+US,Alaska,1390,8
+US,Alaska,2260,6
+US,Alaska,136,0
+US,Alaska,2004,18
+US,Alaska,891,1
+US,Alaska,0,0
+US,Alaska,457,1
+US,Alaska,502,5
+US,Alaska,1378,9
+US,American Samoa,352,0
+US,Arizona,21912,586
+US,Arizona,31019,540
+US,Arizona,43086,456
+US,Arizona,16863,359
+US,Arizona,11890,172
+US,Arizona,2203,31
+US,Arizona,5129,133
+US,Arizona,1248818,15855
+US,Arizona,56913,1388
+US,Arizona,37678,854
+US,Arizona,0,0
+US,Arizona,250137,3663
+US,Arizona,128929,1549
+US,Arizona,16561,226
+US,Arizona,17,0
+US,Arizona,47443,1143
+US,Arizona,62171,1135
+US,Arkansas,5652,78
+US,Arkansas,5078,62
+US,Arkansas,8584,239
+US,Arkansas,66079,795
+US,Arkansas,9342,168
+US,Arkansas,2981,46
+US,Arkansas,939,9
+US,Arkansas,6030,97
+US,Arkansas,2753,57
+US,Arkansas,5226,77
+US,Arkansas,4071,90
+US,Arkansas,6402,123
+US,Arkansas,2244,35
+US,Arkansas,5302,89
+US,Arkansas,5419,59
+US,Arkansas,36913,320
+US,Arkansas,15728,241
+US,Arkansas,13905,214
+US,Arkansas,4780,78
+US,Arkansas,1731,29
+US,Arkansas,3010,38
+US,Arkansas,4648,66
+US,Arkansas,34827,306
+US,Arkansas,3775,71
+US,Arkansas,2655,85
+US,Arkansas,22718,483
+US,Arkansas,4390,59
+US,Arkansas,15761,167
+US,Arkansas,4503,58
+US,Arkansas,11052,125
+US,Arkansas,3740,48
+US,Arkansas,10547,200
+US,Arkansas,3861,65
+US,Arkansas,5984,56
+US,Arkansas,18516,268
+US,Arkansas,6680,76
+US,Arkansas,1277,30
+US,Arkansas,5160,73
+US,Arkansas,2886,58
+US,Arkansas,4900,66
+US,Arkansas,3237,90
+US,Arkansas,5070,73
+US,Arkansas,19711,231
+US,Arkansas,3886,59
+US,Arkansas,3337,85
+US,Arkansas,9418,161
+US,Arkansas,13197,195
+US,Arkansas,1915,31
+US,Arkansas,1487,56
+US,Arkansas,2156,44
+US,Arkansas,1703,45
+US,Arkansas,5405,95
+US,Arkansas,2487,35
+US,Arkansas,4746,94
+US,Arkansas,2547,41
+US,Arkansas,7886,122
+US,Arkansas,4092,140
+US,Arkansas,18309,194
+US,Arkansas,1952,41
+US,Arkansas,102236,1142
+US,Arkansas,4961,80
+US,Arkansas,30585,314
+US,Arkansas,2268,39
+US,Arkansas,2091,42
+US,Arkansas,32493,505
+US,Arkansas,5821,69
+US,Arkansas,4588,100
+US,Arkansas,7058,88
+US,Arkansas,2887,61
+US,Arkansas,26384,0
+US,Arkansas,9139,165
+US,Arkansas,3444,60
+US,Arkansas,67615,595
+US,Arkansas,21816,273
+US,Arkansas,1710,28
+US,Arkansas,6783,102
+US,California,266346,1769
+US,California,126,0
+US,California,9061,84
+US,California,39335,380
+US,California,7599,117
+US,California,4514,21
+US,California,199276,1256
+US,California,5950,48
+US,California,29661,197
+US,California,249735,2653
+US,California,6481,43
+US,California,19813,140
+US,California,65658,890
+US,California,4530,56
+US,California,240530,2173
+US,California,54667,434
+US,California,11436,130
+US,California,10672,65
+US,California,2807057,31138
+US,California,43160,363
+US,California,35121,272
+US,California,2983,30
+US,California,15863,124
+US,California,70111,791
+US,California,979,7
+US,California,3080,5
+US,California,91270,711
+US,California,26488,137
+US,California,17121,122
+US,California,582968,6704
+US,California,0,0
+US,California,69499,594
+US,California,3054,13
+US,California,615594,6294
+US,California,300970,3013
+US,California,13364,97
+US,California,582492,6715
+US,California,792669,5077
+US,California,132258,807
+US,California,174413,2104
+US,California,55567,451
+US,California,126025,730
+US,California,90153,659
+US,California,320725,2206
+US,California,48760,255
+US,California,36497,573
+US,California,314,4
+US,California,7123,74
+US,California,86351,434
+US,California,84638,477
+US,California,136416,1691
+US,California,22303,217
+US,California,14554,158
+US,California,1466,20
+US,California,131900,1334
+US,California,12991,180
+US,California,5373,3
+US,California,180998,1447
+US,California,39055,306
+US,California,16880,115
+US,Colorado,129234,1234
+US,Colorado,4446,60
+US,Colorado,147333,1136
+US,Colorado,2845,15
+US,Colorado,823,8
+US,Colorado,2492,47
+US,Colorado,61168,344
+US,Colorado,12995,111
+US,Colorado,4343,42
+US,Colorado,321,9
+US,Colorado,1503,11
+US,Colorado,1701,52
+US,Colorado,662,15
+US,Colorado,3145,28
+US,Colorado,628,19
+US,Colorado,5937,131
+US,Colorado,165360,1275
+US,Colorado,355,8
+US,Colorado,75702,398
+US,Colorado,15699,35
+US,Colorado,180143,1595
+US,Colorado,4674,37
+US,Colorado,14704,177
+US,Colorado,14265,88
+US,Colorado,928,4
+US,Colorado,3436,23
+US,Colorado,3298,14
+US,Colorado,121,0
+US,Colorado,1427,31
+US,Colorado,164,0
+US,Colorado,118905,1306
+US,Colorado,330,6
+US,Colorado,1586,30
+US,Colorado,12551,80
+US,Colorado,1779,2
+US,Colorado,74402,460
+US,Colorado,3524,40
+US,Colorado,2056,9
+US,Colorado,7222,106
+US,Colorado,41586,528
+US,Colorado,224,1
+US,Colorado,2946,51
+US,Colorado,6050,67
+US,Colorado,9106,158
+US,Colorado,5497,134
+US,Colorado,4217,125
+US,Colorado,842,6
+US,Colorado,0,0
+US,Colorado,2750,20
+US,Colorado,864,18
+US,Colorado,6240,6
+US,Colorado,2587,48
+US,Colorado,44523,771
+US,Colorado,1650,13
+US,Colorado,2746,46
+US,Colorado,6279,24
+US,Colorado,1154,12
+US,Colorado,192,0
+US,Colorado,2227,8
+US,Colorado,476,9
+US,Colorado,9591,14
+US,Colorado,4731,55
+US,Colorado,123,0
+US,Colorado,1038,27
+US,Colorado,80942,685
+US,Colorado,1849,23
+US,Connecticut,199692,2662
+US,Connecticut,175186,3062
+US,Connecticut,31324,450
+US,Connecticut,27582,476
+US,Connecticut,192804,2761
+US,Connecticut,54008,634
+US,Connecticut,20196,264
+US,Connecticut,2828,6
+US,Connecticut,25443,294
+US,Delaware,49777,610
+US,Delaware,145797,1338
+US,Delaware,60945,804
+US,Delaware,919,0
+US,Diamond Princess,49,0
+US,District of Columbia,134623,1319
+US,Florida,67680,588
+US,Florida,8647,132
+US,Florida,46333,778
+US,Florida,7462,138
+US,Florida,133142,1973
+US,Florida,599698,5546
+US,Florida,4079,91
+US,Florida,35555,709
+US,Florida,29446,925
+US,Florida,53429,770
+US,Florida,84241,970
+US,Florida,21153,346
+US,Florida,9306,141
+US,Florida,4018,53
+US,Florida,252744,3154
+US,Florida,81336,1242
+US,Florida,22245,311
+US,Florida,3107,50
+US,Florida,13399,185
+US,Florida,4501,75
+US,Florida,1988,35
+US,Florida,4289,70
+US,Florida,3816,52
+US,Florida,8631,118
+US,Florida,11688,158
+US,Florida,41834,1009
+US,Florida,23986,632
+US,Florida,373147,3383
+US,Florida,5411,83
+US,Florida,32286,627
+US,Florida,14781,258
+US,Florida,3944,44
+US,Florida,2765,51
+US,Florida,84706,1421
+US,Florida,189844,2036
+US,Florida,85491,606
+US,Florida,10208,121
+US,Florida,2495,27
+US,Florida,5833,69
+US,Florida,95522,1345
+US,Florida,83081,2007
+US,Florida,30332,588
+US,Florida,1178827,10320
+US,Florida,18279,115
+US,Florida,22082,272
+US,Florida,51370,656
+US,Florida,10642,165
+US,Florida,375092,2570
+US,Florida,113325,1062
+US,Florida,366129,4843
+US,Florida,121544,1781
+US,Florida,208909,3147
+US,Florida,199330,2802
+US,Florida,17521,405
+US,Florida,48465,584
+US,Florida,90235,1488
+US,Florida,103020,1022
+US,Florida,62653,518
+US,Florida,73837,1137
+US,Florida,21577,506
+US,Florida,12934,276
+US,Florida,6992,99
+US,Florida,2962,2389
+US,Florida,4300,111
+US,Florida,116576,1786
+US,Florida,9911,118
+US,Florida,17337,204
+US,Florida,6604,104
+US,Georgia,4749,119
+US,Georgia,2110,47
+US,Georgia,3537,73
+US,Georgia,534,14
+US,Georgia,9466,225
+US,Georgia,3861,84
+US,Georgia,21819,247
+US,Georgia,28786,433
+US,Georgia,4289,118
+US,Georgia,4905,79
+US,Georgia,36715,750
+US,Georgia,3306,93
+US,Georgia,4109,103
+US,Georgia,3402,82
+US,Georgia,8943,86
+US,Georgia,15372,251
+US,Georgia,5254,104
+US,Georgia,6442,149
+US,Georgia,1343,22
+US,Georgia,11044,113
+US,Georgia,2073,92
+US,Georgia,23603,430
+US,Georgia,14223,155
+US,Georgia,2971,62
+US,Georgia,61659,833
+US,Georgia,6827,21
+US,Georgia,6532,128
+US,Georgia,62693,593
+US,Georgia,29506,217
+US,Georgia,515,6
+US,Georgia,63201,919
+US,Georgia,2086,40
+US,Georgia,169707,1709
+US,Georgia,10882,267
+US,Georgia,11012,231
+US,Georgia,35485,367
+US,Georgia,4868,70
+US,Georgia,32766,466
+US,Georgia,1768,52
+US,Georgia,4638,133
+US,Georgia,3152,28
+US,Georgia,6834,98
+US,Georgia,144703,1624
+US,Georgia,7129,127
+US,Georgia,5176,148
+US,Georgia,2358,67
+US,Georgia,19369,478
+US,Georgia,34625,379
+US,Georgia,2710,60
+US,Georgia,928,11
+US,Georgia,12903,187
+US,Georgia,4526,107
+US,Georgia,5857,154
+US,Georgia,2328,63
+US,Georgia,5084,144
+US,Georgia,22076,303
+US,Georgia,26958,501
+US,Georgia,54410,367
+US,Georgia,5329,94
+US,Georgia,212711,2170
+US,Georgia,6850,167
+US,Georgia,605,25
+US,Georgia,22895,394
+US,Georgia,15792,255
+US,Georgia,5700,108
+US,Georgia,3889,80
+US,Georgia,205584,1800
+US,Georgia,9965,253
+US,Georgia,53076,804
+US,Georgia,1567,87
+US,Georgia,5387,162
+US,Georgia,6026,107
+US,Georgia,4819,89
+US,Georgia,2161,49
+US,Georgia,57375,654
+US,Georgia,39139,476
+US,Georgia,1872,45
+US,Georgia,21174,279
+US,Georgia,3114,68
+US,Georgia,3931,70
+US,Georgia,3632,107
+US,Georgia,1485,66
+US,Georgia,2240,71
+US,Georgia,5001,107
+US,Georgia,4817,111
+US,Georgia,2253,22
+US,Georgia,13685,289
+US,Georgia,7201,98
+US,Georgia,12156,143
+US,Georgia,1590,35
+US,Georgia,2743,34
+US,Georgia,30794,372
+US,Georgia,7101,127
+US,Georgia,2122,48
+US,Georgia,6920,97
+US,Georgia,1499,49
+US,Georgia,5009,94
+US,Georgia,2412,35
+US,Georgia,4443,138
+US,Georgia,1697,30
+US,Georgia,5156,112
+US,Georgia,5839,168
+US,Georgia,2020,49
+US,Georgia,4482,60
+US,Georgia,11400,178
+US,Georgia,37720,769
+US,Georgia,24381,428
+US,Georgia,8694,103
+US,Georgia,3188,50
+US,Georgia,78998,1385
+US,Georgia,37729,418
+US,Georgia,6106,124
+US,Georgia,8250,159
+US,Georgia,5644,125
+US,Georgia,5393,88
+US,Georgia,11753,187
+US,Georgia,2142,72
+US,Georgia,4450,101
+US,Georgia,409,4
+US,Georgia,3624,92
+US,Georgia,1469,47
+US,Georgia,49642,845
+US,Georgia,18246,310
+US,Georgia,1146,8
+US,Georgia,2600,67
+US,Georgia,2127,28
+US,Georgia,15728,394
+US,Georgia,6241,138
+US,Georgia,2481,32
+US,Georgia,6774,160
+US,Georgia,1156,31
+US,Georgia,264,3
+US,Georgia,5099,130
+US,Georgia,1963,52
+US,Georgia,3040,81
+US,Georgia,2027,60
+US,Georgia,11627,204
+US,Georgia,11476,212
+US,Georgia,7008,193
+US,Georgia,2365,104
+US,Georgia,1623,59
+US,Georgia,15365,369
+US,Georgia,2534,55
+US,Georgia,1527,68
+US,Georgia,10417,20
+US,Georgia,4821,149
+US,Georgia,7690,227
+US,Georgia,16366,227
+US,Georgia,21824,417
+US,Georgia,9905,271
+US,Georgia,1053,29
+US,Georgia,4347,132
+US,Georgia,7691,202
+US,Georgia,436,7
+US,Georgia,1407,38
+US,Georgia,6756,153
+US,Georgia,33734,413
+US,Georgia,1984,68
+US,Georgia,2228,49
+US,Georgia,2219,54
+US,Georgia,4605,110
+US,Grand Princess,103,3
+US,Guam,46000,335
+US,Hawaii,25982,182
+US,Hawaii,164664,998
+US,Hawaii,11532,29
+US,Hawaii,29666,133
+US,Hawaii,5828,12
+US,Hawaii,0,0
+US,Idaho,131644,995
+US,Idaho,694,15
+US,Idaho,20743,242
+US,Idaho,907,15
+US,Idaho,2011,40
+US,Idaho,9733,150
+US,Idaho,5696,30
+US,Idaho,1062,13
+US,Idaho,8535,176
+US,Idaho,30800,282
+US,Idaho,2034,57
+US,Idaho,476,9
+US,Idaho,149,2
+US,Idaho,61209,674
+US,Idaho,1476,24
+US,Idaho,4892,52
+US,Idaho,108,0
+US,Idaho,2275,31
+US,Idaho,524,8
+US,Idaho,6945,69
+US,Idaho,2331,29
+US,Idaho,2148,26
+US,Idaho,3628,79
+US,Idaho,3154,55
+US,Idaho,2923,51
+US,Idaho,6030,62
+US,Idaho,5724,64
+US,Idaho,39626,581
+US,Idaho,6665,48
+US,Idaho,1250,25
+US,Idaho,1126,28
+US,Idaho,1057,15
+US,Idaho,12649,49
+US,Idaho,4031,62
+US,Idaho,8876,143
+US,Idaho,797,11
+US,Idaho,2258,52
+US,Idaho,5516,84
+US,Idaho,1463,20
+US,Idaho,2623,75
+US,Idaho,2688,8
+US,Idaho,22655,284
+US,Idaho,0,0
+US,Idaho,2542,16
+US,Idaho,2360,56
+US,Illinois,22222,202
+US,Illinois,1272,15
+US,Illinois,4299,29
+US,Illinois,13715,115
+US,Illinois,2393,15
+US,Illinois,8300,127
+US,Illinois,1516,5
+US,Illinois,4225,47
+US,Illinois,4586,35
+US,Illinois,61692,286
+US,Illinois,10105,110
+US,Illinois,4817,52
+US,Illinois,4731,67
+US,Illinois,11844,113
+US,Illinois,15163,167
+US,Illinois,1115700,14142
+US,Illinois,6163,44
+US,Illinois,3336,37
+US,Illinois,4299,37
+US,Illinois,23083,192
+US,Illinois,6433,54
+US,Illinois,206604,1683
+US,Illinois,5119,58
+US,Illinois,1748,27
+US,Illinois,10578,133
+US,Illinois,7057,98
+US,Illinois,4385,64
+US,Illinois,12244,164
+US,Illinois,9978,126
+US,Illinois,1394,16
+US,Illinois,3580,44
+US,Illinois,12545,134
+US,Illinois,2163,31
+US,Illinois,4362,46
+US,Illinois,1049,19
+US,Illinois,1147,17
+US,Illinois,12582,117
+US,Illinois,7114,111
+US,Illinois,15446,118
+US,Illinois,2670,26
+US,Illinois,11007,172
+US,Illinois,6173,69
+US,Illinois,3991,35
+US,Illinois,4435,40
+US,Illinois,124872,1106
+US,Illinois,28653,359
+US,Illinois,30600,156
+US,Illinois,12480,209
+US,Illinois,28689,377
+US,Illinois,147728,1341
+US,Illinois,5479,41
+US,Illinois,8718,78
+US,Illinois,10645,137
+US,Illinois,9394,84
+US,Illinois,30284,335
+US,Illinois,12673,137
+US,Illinois,69888,779
+US,Illinois,11810,206
+US,Illinois,2741,31
+US,Illinois,3878,60
+US,Illinois,3847,66
+US,Illinois,7142,87
+US,Illinois,75164,470
+US,Illinois,49163,287
+US,Illinois,3485,19
+US,Illinois,3976,47
+US,Illinois,9436,130
+US,Illinois,9746,101
+US,Illinois,9391,125
+US,Illinois,4046,44
+US,Illinois,13884,128
+US,Illinois,5,0
+US,Illinois,46120,508
+US,Illinois,7404,97
+US,Illinois,4361,23
+US,Illinois,4999,65
+US,Illinois,950,8
+US,Illinois,1717,18
+US,Illinois,1122,9
+US,Illinois,10395,123
+US,Illinois,5149,74
+US,Illinois,32914,468
+US,Illinois,7815,92
+US,Illinois,54408,381
+US,Illinois,1940,17
+US,Illinois,1244,11
+US,Illinois,6163,73
+US,Illinois,63250,716
+US,Illinois,1506,32
+US,Illinois,11422,154
+US,Illinois,36351,459
+US,Illinois,98,2433
+US,Illinois,5339,63
+US,Illinois,27832,288
+US,Illinois,3696,27
+US,Illinois,3977,81
+US,Illinois,3407,34
+US,Illinois,5267,82
+US,Illinois,4391,48
+US,Illinois,15244,223
+US,Illinois,160252,1503
+US,Illinois,22437,244
+US,Illinois,75954,799
+US,Illinois,10289,111
+US,Indiana,7247,111
+US,Indiana,103386,1132
+US,Indiana,21250,240
+US,Indiana,2467,21
+US,Indiana,3105,65
+US,Indiana,15087,167
+US,Indiana,2582,61
+US,Indiana,4203,58
+US,Indiana,11601,155
+US,Indiana,30911,366
+US,Indiana,6813,84
+US,Indiana,9167,113
+US,Indiana,2534,36
+US,Indiana,7451,147
+US,Indiana,11305,144
+US,Indiana,13387,126
+US,Indiana,6979,134
+US,Indiana,24687,413
+US,Indiana,12825,161
+US,Indiana,53938,688
+US,Indiana,6712,138
+US,Indiana,18816,280
+US,Indiana,5367,94
+US,Indiana,4359,54
+US,Indiana,4885,99
+US,Indiana,11602,137
+US,Indiana,17233,331
+US,Indiana,7170,131
+US,Indiana,81431,609
+US,Indiana,20584,246
+US,Indiana,10748,130
+US,Indiana,40618,522
+US,Indiana,12921,222
+US,Indiana,25318,422
+US,Indiana,11463,148
+US,Indiana,12478,121
+US,Indiana,8973,138
+US,Indiana,4828,70
+US,Indiana,9327,142
+US,Indiana,6926,96
+US,Indiana,42153,574
+US,Indiana,10706,145
+US,Indiana,19686,228
+US,Indiana,5836,100
+US,Indiana,25310,354
+US,Indiana,105618,1713
+US,Indiana,11804,251
+US,Indiana,32534,607
+US,Indiana,224077,2837
+US,Indiana,12284,182
+US,Indiana,2158,24
+US,Indiana,9219,150
+US,Indiana,27472,269
+US,Indiana,10621,160
+US,Indiana,16395,259
+US,Indiana,2548,66
+US,Indiana,13028,152
+US,Indiana,1441,19
+US,Indiana,5020,90
+US,Indiana,5806,110
+US,Indiana,3588,46
+US,Indiana,4633,62
+US,Indiana,3716,46
+US,Indiana,37297,530
+US,Indiana,6516,56
+US,Indiana,3060,83
+US,Indiana,9274,120
+US,Indiana,5876,140
+US,Indiana,8261,134
+US,Indiana,4825,58
+US,Indiana,7840,100
+US,Indiana,13548,164
+US,Indiana,5209,58
+US,Indiana,70290,826
+US,Indiana,4712,90
+US,Indiana,9607,115
+US,Indiana,5254,72
+US,Indiana,2306,19
+US,Indiana,49699,378
+US,Indiana,3502,81
+US,Indiana,0,900
+US,Indiana,2015,20
+US,Indiana,57082,599
+US,Indiana,4056,74
+US,Indiana,28777,397
+US,Indiana,8690,150
+US,Indiana,2074,28
+US,Indiana,20201,229
+US,Indiana,5975,78
+US,Indiana,18788,323
+US,Indiana,6483,127
+US,Indiana,6816,90
+US,Indiana,9627,80
+US,Iowa,1581,50
+US,Iowa,815,13
+US,Iowa,2846,59
+US,Iowa,2900,66
+US,Iowa,1099,19
+US,Iowa,5995,75
+US,Iowa,32562,463
+US,Iowa,5440,53
+US,Iowa,5465,79
+US,Iowa,4565,57
+US,Iowa,6423,56
+US,Iowa,3195,52
+US,Iowa,2587,23
+US,Iowa,4912,65
+US,Iowa,2946,76
+US,Iowa,4123,35
+US,Iowa,11034,161
+US,Iowa,2955,60
+US,Iowa,2667,31
+US,Iowa,2252,35
+US,Iowa,4084,42
+US,Iowa,3451,72
+US,Iowa,11485,143
+US,Iowa,4511,53
+US,Iowa,22900,139
+US,Iowa,1589,29
+US,Iowa,1508,24
+US,Iowa,3996,68
+US,Iowa,9083,130
+US,Iowa,4121,72
+US,Iowa,25837,293
+US,Iowa,2344,51
+US,Iowa,4069,71
+US,Iowa,3518,61
+US,Iowa,2502,41
+US,Iowa,1373,24
+US,Iowa,1712,21
+US,Iowa,2549,40
+US,Iowa,2345,44
+US,Iowa,3471,72
+US,Iowa,2830,46
+US,Iowa,4105,59
+US,Iowa,3416,93
+US,Iowa,5540,70
+US,Iowa,2035,34
+US,Iowa,2609,37
+US,Iowa,1796,48
+US,Iowa,3663,49
+US,Iowa,4594,68
+US,Iowa,8616,106
+US,Iowa,3465,50
+US,Iowa,33776,140
+US,Iowa,5432,72
+US,Iowa,2045,47
+US,Iowa,3766,87
+US,Iowa,7820,138
+US,Iowa,51685,567
+US,Iowa,2473,60
+US,Iowa,1742,32
+US,Iowa,2721,48
+US,Iowa,3137,38
+US,Iowa,4876,85
+US,Iowa,7514,120
+US,Iowa,9375,109
+US,Iowa,3331,42
+US,Iowa,2460,50
+US,Iowa,1715,48
+US,Iowa,1878,48
+US,Iowa,2200,52
+US,Iowa,9514,131
+US,Iowa,3407,71
+US,Iowa,1392,22
+US,Iowa,3326,46
+US,Iowa,2027,37
+US,Iowa,6304,99
+US,Iowa,1575,27
+US,Iowa,124161,1066
+US,Iowa,24138,309
+US,Iowa,3558,60
+US,Iowa,1127,33
+US,Iowa,2392,32
+US,Iowa,40894,377
+US,Iowa,2705,50
+US,Iowa,7975,85
+US,Iowa,19671,84
+US,Iowa,3840,88
+US,Iowa,1317,21
+US,Iowa,40,0
+US,Iowa,2712,49
+US,Iowa,1377,26
+US,Iowa,8926,193
+US,Iowa,12436,134
+US,Iowa,5608,76
+US,Iowa,1263,33
+US,Iowa,10310,156
+US,Iowa,2942,45
+US,Iowa,3795,46
+US,Iowa,28742,329
+US,Iowa,1750,14
+US,Iowa,3608,62
+US,Kansas,3951,46
+US,Kansas,2106,27
+US,Kansas,4260,33
+US,Kansas,1038,8
+US,Kansas,6480,86
+US,Kansas,4380,46
+US,Kansas,2680,47
+US,Kansas,18864,166
+US,Kansas,673,7
+US,Kansas,839,17
+US,Kansas,6134,84
+US,Kansas,660,14
+US,Kansas,493,7
+US,Kansas,1967,33
+US,Kansas,2212,36
+US,Kansas,2408,39
+US,Kansas,441,15
+US,Kansas,10074,147
+US,Kansas,11844,124
+US,Kansas,613,19
+US,Kansas,4787,73
+US,Kansas,2431,32
+US,Kansas,25233,131
+US,Kansas,560,13
+US,Kansas,569,8
+US,Kansas,7126,80
+US,Kansas,2012,31
+US,Kansas,11517,106
+US,Kansas,10591,108
+US,Kansas,6903,77
+US,Kansas,9187,73
+US,Kansas,785,23
+US,Kansas,565,13
+US,Kansas,2198,34
+US,Kansas,1230,23
+US,Kansas,333,3
+US,Kansas,1780,22
+US,Kansas,462,3
+US,Kansas,1647,25
+US,Kansas,9543,119
+US,Kansas,961,11
+US,Kansas,409,10
+US,Kansas,3874,27
+US,Kansas,4743,60
+US,Kansas,785,13
+US,Kansas,144548,1182
+US,Kansas,1235,20
+US,Kansas,1951,26
+US,Kansas,668,7
+US,Kansas,6600,72
+US,Kansas,295,11
+US,Kansas,19260,174
+US,Kansas,621,10
+US,Kansas,2812,26
+US,Kansas,840,12
+US,Kansas,9941,115
+US,Kansas,3314,39
+US,Kansas,2543,41
+US,Kansas,7770,124
+US,Kansas,1218,19
+US,Kansas,7699,87
+US,Kansas,1422,19
+US,Kansas,9395,141
+US,Kansas,1497,27
+US,Kansas,622,11
+US,Kansas,3230,60
+US,Kansas,5127,62
+US,Kansas,779,18
+US,Kansas,2145,37
+US,Kansas,3889,44
+US,Kansas,791,16
+US,Kansas,1193,16
+US,Kansas,0,0
+US,Kansas,2119,23
+US,Kansas,1357,29
+US,Kansas,5713,55
+US,Kansas,1925,30
+US,Kansas,677,9
+US,Kansas,18478,219
+US,Kansas,1345,14
+US,Kansas,2601,22
+US,Kansas,13400,79
+US,Kansas,1364,20
+US,Kansas,808,18
+US,Kansas,1872,36
+US,Kansas,14091,230
+US,Kansas,1277,34
+US,Kansas,144518,1255
+US,Kansas,6918,59
+US,Kansas,47962,567
+US,Kansas,786,18
+US,Kansas,1500,19
+US,Kansas,644,8
+US,Kansas,1134,26
+US,Kansas,430,8
+US,Kansas,1458,18
+US,Kansas,5637,66
+US,Kansas,2373,27
+US,Kansas,750,9
+US,Kansas,0,0
+US,Kansas,1634,22
+US,Kansas,436,5
+US,Kansas,1394,20
+US,Kansas,494,8
+US,Kansas,2800,41
+US,Kansas,794,12
+US,Kansas,46677,462
+US,Kentucky,5549,99
+US,Kentucky,6530,94
+US,Kentucky,6225,65
+US,Kentucky,1257,27
+US,Kentucky,12759,207
+US,Kentucky,2916,38
+US,Kentucky,8774,132
+US,Kentucky,36286,268
+US,Kentucky,5914,51
+US,Kentucky,16052,165
+US,Kentucky,8324,122
+US,Kentucky,2099,24
+US,Kentucky,3560,50
+US,Kentucky,4986,72
+US,Kentucky,20927,195
+US,Kentucky,3837,49
+US,Kentucky,4013,58
+US,Kentucky,7908,85
+US,Kentucky,22384,153
+US,Kentucky,969,19
+US,Kentucky,3437,42
+US,Kentucky,8457,97
+US,Kentucky,3955,66
+US,Kentucky,16048,196
+US,Kentucky,9932,53
+US,Kentucky,7746,82
+US,Kentucky,3393,43
+US,Kentucky,2145,45
+US,Kentucky,2153,28
+US,Kentucky,30831,359
+US,Kentucky,2528,38
+US,Kentucky,2249,16
+US,Kentucky,4063,42
+US,Kentucky,93315,555
+US,Kentucky,3648,48
+US,Kentucky,12296,159
+US,Kentucky,13192,135
+US,Kentucky,1151,24
+US,Kentucky,2162,45
+US,Kentucky,4733,71
+US,Kentucky,6756,52
+US,Kentucky,11322,160
+US,Kentucky,8034,122
+US,Kentucky,3526,38
+US,Kentucky,11883,126
+US,Kentucky,2446,21
+US,Kentucky,32241,403
+US,Kentucky,9085,184
+US,Kentucky,6111,62
+US,Kentucky,5341,94
+US,Kentucky,13688,147
+US,Kentucky,4735,46
+US,Kentucky,818,23
+US,Kentucky,14692,244
+US,Kentucky,4203,71
+US,Kentucky,220855,2091
+US,Kentucky,14976,130
+US,Kentucky,5913,97
+US,Kentucky,40963,370
+US,Kentucky,4045,57
+US,Kentucky,11378,125
+US,Kentucky,3709,68
+US,Kentucky,18393,203
+US,Kentucky,4475,59
+US,Kentucky,2891,46
+US,Kentucky,3638,39
+US,Kentucky,6761,96
+US,Kentucky,4445,79
+US,Kentucky,6209,121
+US,Kentucky,2328,58
+US,Kentucky,8285,113
+US,Kentucky,2819,33
+US,Kentucky,27461,251
+US,Kentucky,3813,41
+US,Kentucky,6342,75
+US,Kentucky,8347,97
+US,Kentucky,3229,45
+US,Kentucky,4558,97
+US,Kentucky,17817,229
+US,Kentucky,5145,74
+US,Kentucky,2598,46
+US,Kentucky,5743,64
+US,Kentucky,1509,30
+US,Kentucky,7271,99
+US,Kentucky,2829,59
+US,Kentucky,3603,74
+US,Kentucky,6690,87
+US,Kentucky,4659,18
+US,Kentucky,10071,118
+US,Kentucky,14286,140
+US,Kentucky,1878,30
+US,Kentucky,7254,95
+US,Kentucky,18035,127
+US,Kentucky,2350,32
+US,Kentucky,1550,23
+US,Kentucky,3415,34
+US,Kentucky,10553,149
+US,Kentucky,18403,258
+US,Kentucky,4693,38
+US,Kentucky,15991,254
+US,Kentucky,623,21
+US,Kentucky,4998,55
+US,Kentucky,6417,55
+US,Kentucky,6180,81
+US,Kentucky,15825,94
+US,Kentucky,13118,147
+US,Kentucky,5592,87
+US,Kentucky,5261,50
+US,Kentucky,8844,113
+US,Kentucky,2904,42
+US,Kentucky,3658,41
+US,Kentucky,2137,38
+US,Kentucky,2562,0
+US,Kentucky,4298,55
+US,Kentucky,42590,339
+US,Kentucky,3851,56
+US,Kentucky,5175,87
+US,Kentucky,3877,47
+US,Kentucky,13908,168
+US,Kentucky,2398,18
+US,Kentucky,6721,45
+US,Louisiana,14994,287
+US,Louisiana,7369,130
+US,Louisiana,33065,287
+US,Louisiana,5239,69
+US,Louisiana,10762,201
+US,Louisiana,8765,140
+US,Louisiana,3701,110
+US,Louisiana,35255,474
+US,Louisiana,63237,1112
+US,Louisiana,51652,693
+US,Louisiana,3057,52
+US,Louisiana,1144,8
+US,Louisiana,2558,55
+US,Louisiana,3099,73
+US,Louisiana,4792,89
+US,Louisiana,6928,134
+US,Louisiana,105162,1317
+US,Louisiana,2327,38
+US,Louisiana,6684,167
+US,Louisiana,7934,153
+US,Louisiana,6757,174
+US,Louisiana,5524,90
+US,Louisiana,18100,258
+US,Louisiana,8517,148
+US,Louisiana,4075,72
+US,Louisiana,108062,1314
+US,Louisiana,6584,152
+US,Louisiana,3972,53
+US,Louisiana,59205,485
+US,Louisiana,26160,363
+US,Louisiana,11447,137
+US,Louisiana,35113,457
+US,Louisiana,3027,58
+US,Louisiana,6490,132
+US,Louisiana,9522,160
+US,Louisiana,83137,1101
+US,Louisiana,47218,720
+US,Louisiana,0,0
+US,Louisiana,6108,44
+US,Louisiana,5864,89
+US,Louisiana,30843,560
+US,Louisiana,1985,52
+US,Louisiana,6138,94
+US,Louisiana,5978,109
+US,Louisiana,10678,108
+US,Louisiana,13141,142
+US,Louisiana,1832,23
+US,Louisiana,5454,75
+US,Louisiana,10004,184
+US,Louisiana,21025,404
+US,Louisiana,12234,181
+US,Louisiana,11907,258
+US,Louisiana,68049,833
+US,Louisiana,32858,587
+US,Louisiana,938,11
+US,Louisiana,29210,407
+US,Louisiana,926,0
+US,Louisiana,6382,129
+US,Louisiana,14406,222
+US,Louisiana,9453,187
+US,Louisiana,12183,245
+US,Louisiana,10456,175
+US,Louisiana,6872,84
+US,Louisiana,3337,61
+US,Louisiana,2704,44
+US,Louisiana,4137,61
+US,Maine,22212,259
+US,Maine,12215,145
+US,Maine,47522,341
+US,Maine,5581,56
+US,Maine,7132,77
+US,Maine,22275,223
+US,Maine,5755,31
+US,Maine,5053,31
+US,Maine,0,0
+US,Maine,10959,140
+US,Maine,26775,314
+US,Maine,2918,30
+US,Maine,4914,28
+US,Maine,9376,102
+US,Maine,10,0
+US,Maine,5889,55
+US,Maine,4155,50
+US,Maine,38728,254
+US,Maryland,17041,350
+US,Maryland,88516,1043
+US,Maryland,130857,2432
+US,Maryland,110708,1746
+US,Maryland,11048,141
+US,Maryland,6014,80
+US,Maryland,21138,392
+US,Maryland,15306,255
+US,Maryland,27666,345
+US,Maryland,7671,106
+US,Maryland,45236,509
+US,Maryland,5654,114
+US,Maryland,37860,569
+US,Maryland,43187,367
+US,Maryland,3027,66
+US,Maryland,165749,2005
+US,Maryland,169199,2119
+US,Maryland,7021,108
+US,Maryland,5146,70
+US,Maryland,18757,208
+US,Maryland,5520,85
+US,Maryland,0,59
+US,Maryland,34901,574
+US,Maryland,19515,321
+US,Maryland,8596,154
+US,Massachusetts,34532,679
+US,Massachusetts,22711,408
+US,Massachusetts,148570,2484
+US,Massachusetts,6751,15
+US,Massachusetts,202872,3157
+US,Massachusetts,10331,170
+US,Massachusetts,131638,2074
+US,Massachusetts,27025,412
+US,Massachusetts,319275,4718
+US,Massachusetts,129303,2238
+US,Massachusetts,114464,2000
+US,Massachusetts,207389,2305
+US,Massachusetts,134266,7
+US,Massachusetts,189907,3041
+US,Michigan,1717,70
+US,Michigan,1703,13
+US,Michigan,26927,336
+US,Michigan,5563,133
+US,Michigan,4274,61
+US,Michigan,3189,64
+US,Michigan,2025,53
+US,Michigan,14217,164
+US,Michigan,26911,569
+US,Michigan,3396,65
+US,Michigan,34461,534
+US,Michigan,11240,177
+US,Michigan,33815,563
+US,Michigan,11053,138
+US,Michigan,4879,59
+US,Michigan,4568,101
+US,Michigan,8401,98
+US,Michigan,6709,154
+US,Michigan,21004,202
+US,Michigan,2541,30
+US,Michigan,9897,155
+US,Michigan,7361,107
+US,Michigan,26525,389
+US,Michigan,6331,83
+US,Michigan,324,5
+US,Michigan,100417,1686
+US,Michigan,5552,110
+US,Michigan,3242,68
+US,Michigan,17012,221
+US,Michigan,10675,178
+US,Michigan,10277,197
+US,Michigan,7714,89
+US,Michigan,7991,145
+US,Michigan,63339,744
+US,Michigan,16388,173
+US,Michigan,4776,136
+US,Michigan,2637,86
+US,Michigan,15461,199
+US,Michigan,39120,538
+US,Michigan,58541,658
+US,Michigan,3497,59
+US,Michigan,165398,1492
+US,Michigan,504,13
+US,Michigan,1832,36
+US,Michigan,20161,409
+US,Michigan,3543,51
+US,Michigan,24301,313
+US,Michigan,45471,439
+US,Michigan,1418,10
+US,Michigan,2369,29
+US,Michigan,226006,3876
+US,Michigan,3662,84
+US,Michigan,14869,125
+US,Michigan,6666,87
+US,Michigan,8601,105
+US,Michigan,5559,69
+US,Michigan,38235,175
+US,Michigan,18945,220
+US,Michigan,2886,59
+US,Michigan,37656,460
+US,Michigan,14947,205
+US,Michigan,1702,47
+US,Michigan,39290,619
+US,Michigan,11410,153
+US,Michigan,283223,3744
+US,Michigan,6278,89
+US,Michigan,4294,103
+US,Michigan,970,37
+US,Michigan,4960,78
+US,Michigan,1426,54
+US,Michigan,5576,96
+US,Michigan,74230,776
+US,Michigan,5667,39
+US,Michigan,2056,56
+US,Michigan,4586,111
+US,Michigan,49020,921
+US,Michigan,8640,185
+US,Michigan,1746,16
+US,Michigan,17685,226
+US,Michigan,40182,811
+US,Michigan,13610,204
+US,Michigan,13161,273
+US,Michigan,19,0
+US,Michigan,16897,262
+US,Michigan,73420,504
+US,Michigan,394107,7760
+US,Michigan,6999,104
+US,Minnesota,2926,60
+US,Minnesota,97693,784
+US,Minnesota,8666,89
+US,Minnesota,11450,124
+US,Minnesota,13815,172
+US,Minnesota,1368,8
+US,Minnesota,17552,97
+US,Minnesota,6486,77
+US,Minnesota,8802,95
+US,Minnesota,26353,113
+US,Minnesota,6811,79
+US,Minnesota,3057,47
+US,Minnesota,14415,118
+US,Minnesota,19552,121
+US,Minnesota,2126,30
+US,Minnesota,545,4
+US,Minnesota,3191,41
+US,Minnesota,15797,165
+US,Minnesota,108676,759
+US,Minnesota,5613,21
+US,Minnesota,10793,115
+US,Minnesota,3724,50
+US,Minnesota,4690,24
+US,Minnesota,8946,72
+US,Minnesota,12874,126
+US,Minnesota,1450,12
+US,Minnesota,294961,2526
+US,Minnesota,4468,18
+US,Minnesota,4884,58
+US,Minnesota,10027,116
+US,Minnesota,10935,142
+US,Minnesota,2131,17
+US,Minnesota,3461,54
+US,Minnesota,13244,135
+US,Minnesota,1022,27
+US,Minnesota,2676,35
+US,Minnesota,1727,28
+US,Minnesota,2032,28
+US,Minnesota,755,6
+US,Minnesota,6410,49
+US,Minnesota,1205,6
+US,Minnesota,7022,72
+US,Minnesota,1706,17
+US,Minnesota,2047,23
+US,Minnesota,5538,61
+US,Minnesota,10429,107
+US,Minnesota,5818,74
+US,Minnesota,7155,110
+US,Minnesota,9014,102
+US,Minnesota,11759,70
+US,Minnesota,2016,15
+US,Minnesota,7882,66
+US,Minnesota,6905,59
+US,Minnesota,1475,13
+US,Minnesota,40045,171
+US,Minnesota,13383,162
+US,Minnesota,3504,41
+US,Minnesota,6945,66
+US,Minnesota,1979,34
+US,Minnesota,8527,102
+US,Minnesota,2969,17
+US,Minnesota,122613,1313
+US,Minnesota,927,13
+US,Minnesota,3858,53
+US,Minnesota,3640,56
+US,Minnesota,17604,171
+US,Minnesota,2314,33
+US,Minnesota,4387,44
+US,Minnesota,39763,250
+US,Minnesota,27105,177
+US,Minnesota,3457,23
+US,Minnesota,46158,522
+US,Minnesota,50209,361
+US,Minnesota,10239,58
+US,Minnesota,2604,13
+US,Minnesota,2271,33
+US,Minnesota,6662,56
+US,Minnesota,828,10
+US,Minnesota,5772,190
+US,Minnesota,5503,16
+US,Minnesota,4124,52
+US,Minnesota,5422,39
+US,Minnesota,66068,470
+US,Minnesota,2943,23
+US,Minnesota,1625,22
+US,Minnesota,12465,71
+US,Minnesota,36224,301
+US,Minnesota,2508,28
+US,Mississippi,7119,141
+US,Mississippi,9897,153
+US,Mississippi,3223,68
+US,Mississippi,5253,111
+US,Mississippi,2264,49
+US,Mississippi,9238,177
+US,Mississippi,4632,70
+US,Mississippi,2556,50
+US,Mississippi,5581,96
+US,Mississippi,2213,33
+US,Mississippi,2138,46
+US,Mississippi,4207,106
+US,Mississippi,4936,98
+US,Mississippi,6432,121
+US,Mississippi,7102,114
+US,Mississippi,7056,109
+US,Mississippi,49914,540
+US,Mississippi,21908,307
+US,Mississippi,1922,38
+US,Mississippi,7120,86
+US,Mississippi,3179,56
+US,Mississippi,5497,128
+US,Mississippi,12154,150
+US,Mississippi,53345,652
+US,Mississippi,51981,775
+US,Mississippi,4440,104
+US,Mississippi,2007,44
+US,Mississippi,261,9
+US,Mississippi,7359,143
+US,Mississippi,36768,450
+US,Mississippi,4814,75
+US,Mississippi,1469,37
+US,Mississippi,2844,53
+US,Mississippi,21107,287
+US,Mississippi,2164,47
+US,Mississippi,15115,177
+US,Mississippi,17320,160
+US,Mississippi,18719,359
+US,Mississippi,3572,56
+US,Mississippi,6383,115
+US,Mississippi,26559,294
+US,Mississippi,7293,167
+US,Mississippi,8269,156
+US,Mississippi,17463,234
+US,Mississippi,23911,321
+US,Mississippi,6940,134
+US,Mississippi,9876,172
+US,Mississippi,10952,216
+US,Mississippi,2948,75
+US,Mississippi,10581,235
+US,Mississippi,5989,97
+US,Mississippi,2715,48
+US,Mississippi,11063,158
+US,Mississippi,10368,167
+US,Mississippi,14979,269
+US,Mississippi,3033,63
+US,Mississippi,9571,184
+US,Mississippi,10314,141
+US,Mississippi,8175,103
+US,Mississippi,1559,31
+US,Mississippi,36386,478
+US,Mississippi,6480,118
+US,Mississippi,950,25
+US,Mississippi,6939,146
+US,Mississippi,4089,67
+US,Mississippi,5385,70
+US,Mississippi,5746,120
+US,Mississippi,3176,60
+US,Mississippi,7294,140
+US,Mississippi,7296,106
+US,Mississippi,6107,122
+US,Mississippi,2510,45
+US,Mississippi,163,22
+US,Mississippi,9452,118
+US,Mississippi,3580,79
+US,Mississippi,10184,201
+US,Mississippi,10248,195
+US,Mississippi,5951,84
+US,Mississippi,3377,69
+US,Mississippi,1792,46
+US,Mississippi,5199,103
+US,Mississippi,4052,56
+US,Mississippi,8006,103
+US,Missouri,5476,61
+US,Missouri,4692,55
+US,Missouri,1380,20
+US,Missouri,5687,109
+US,Missouri,6597,125
+US,Missouri,2803,50
+US,Missouri,3733,89
+US,Missouri,4137,92
+US,Missouri,2544,36
+US,Missouri,43162,244
+US,Missouri,22498,300
+US,Missouri,9920,157
+US,Missouri,1678,35
+US,Missouri,12015,121
+US,Missouri,9230,173
+US,Missouri,18556,238
+US,Missouri,2220,44
+US,Missouri,1491,21
+US,Missouri,24634,299
+US,Missouri,2904,48
+US,Missouri,1689,34
+US,Missouri,20768,250
+US,Missouri,1579,32
+US,Missouri,26890,357
+US,Missouri,4730,115
+US,Missouri,20060,272
+US,Missouri,4135,74
+US,Missouri,5368,97
+US,Missouri,1417,40
+US,Missouri,3780,70
+US,Missouri,1686,26
+US,Missouri,2144,44
+US,Missouri,3238,75
+US,Missouri,2538,77
+US,Missouri,7175,111
+US,Missouri,22574,326
+US,Missouri,3316,94
+US,Missouri,2137,30
+US,Missouri,69646,980
+US,Missouri,2419,66
+US,Missouri,1802,30
+US,Missouri,5725,78
+US,Missouri,1825,55
+US,Missouri,1051,27
+US,Missouri,2155,25
+US,Missouri,8845,205
+US,Missouri,2172,40
+US,Missouri,96556,1166
+US,Missouri,34480,515
+US,Missouri,53767,614
+US,Missouri,12065,139
+US,Missouri,111649,1225
+US,Missouri,957,12
+US,Missouri,8077,170
+US,Missouri,7724,124
+US,Missouri,7733,157
+US,Missouri,2723,34
+US,Missouri,15085,133
+US,Missouri,2530,62
+US,Missouri,3720,91
+US,Missouri,3600,52
+US,Missouri,3562,52
+US,Missouri,1591,34
+US,Missouri,7937,115
+US,Missouri,5250,66
+US,Missouri,693,12
+US,Missouri,6067,114
+US,Missouri,3324,56
+US,Missouri,3802,55
+US,Missouri,2162,40
+US,Missouri,2458,56
+US,Missouri,3997,104
+US,Missouri,5012,83
+US,Missouri,11670,194
+US,Missouri,6005,43
+US,Missouri,2016,32
+US,Missouri,3201,42
+US,Missouri,1697,55
+US,Missouri,2972,73
+US,Missouri,4896,44
+US,Missouri,11861,155
+US,Missouri,10026,234
+US,Missouri,4226,57
+US,Missouri,10257,100
+US,Missouri,8005,103
+US,Missouri,8793,113
+US,Missouri,990,23
+US,Missouri,2441,25
+US,Missouri,5990,100
+US,Missouri,5129,89
+US,Missouri,1149,25
+US,Missouri,2673,61
+US,Missouri,6252,100
+US,Missouri,723,25
+US,Missouri,682,18
+US,Missouri,11071,153
+US,Missouri,1592,36
+US,Missouri,1505,15
+US,Missouri,93442,890
+US,Missouri,2096,32
+US,Missouri,18956,278
+US,Missouri,218547,3221
+US,Missouri,55844,752
+US,Missouri,3642,39
+US,Missouri,6076,122
+US,Missouri,5750,117
+US,Missouri,1702,21
+US,Missouri,13233,218
+US,Missouri,4649,94
+US,Missouri,0,0
+US,Missouri,5037,102
+US,Missouri,8088,101
+US,Missouri,5925,133
+US,Missouri,2364,47
+US,Missouri,8983,142
+US,Missouri,401,3
+US,Missouri,3821,79
+US,Montana,2118,28
+US,Montana,4947,92
+US,Montana,2056,31
+US,Montana,1258,18
+US,Montana,2031,28
+US,Montana,248,5
+US,Montana,25004,313
+US,Montana,976,14
+US,Montana,3034,46
+US,Montana,386,9
+US,Montana,2327,54
+US,Montana,2508,28
+US,Montana,676,10
+US,Montana,2492,54
+US,Montana,29005,268
+US,Montana,34011,115
+US,Montana,224,3
+US,Montana,3928,68
+US,Montana,150,5
+US,Montana,529,8
+US,Montana,4528,71
+US,Montana,2582,23
+US,Montana,219,1
+US,Montana,6554,98
+US,Montana,17469,173
+US,Montana,394,4
+US,Montana,4681,86
+US,Montana,1803,20
+US,Montana,385,9
+US,Montana,408,10
+US,Montana,1083,17
+US,Montana,27114,201
+US,Montana,912,26
+US,Montana,4150,34
+US,Montana,35,1
+US,Montana,1054,28
+US,Montana,1155,6
+US,Montana,331,10
+US,Montana,1864,28
+US,Montana,262,3
+US,Montana,6995,141
+US,Montana,2567,31
+US,Montana,3249,71
+US,Montana,2627,59
+US,Montana,2131,46
+US,Montana,689,11
+US,Montana,8432,129
+US,Montana,1522,29
+US,Montana,769,11
+US,Montana,1268,20
+US,Montana,1239,23
+US,Montana,134,1
+US,Montana,0,0
+US,Montana,1692,36
+US,Montana,382,14
+US,Montana,204,8
+US,Montana,42673,535
+US,Nebraska,6440,46
+US,Nebraska,1069,7
+US,Nebraska,32,1
+US,Nebraska,89,0
+US,Nebraska,67,0
+US,Nebraska,1088,4
+US,Nebraska,2324,8
+US,Nebraska,404,3
+US,Nebraska,507,2
+US,Nebraska,11957,57
+US,Nebraska,1331,12
+US,Nebraska,1894,11
+US,Nebraska,6120,16
+US,Nebraska,1498,11
+US,Nebraska,740,5
+US,Nebraska,541,7
+US,Nebraska,2016,16
+US,Nebraska,1512,11
+US,Nebraska,2717,21
+US,Nebraska,1803,15
+US,Nebraska,2024,19
+US,Nebraska,6908,65
+US,Nebraska,1356,12
+US,Nebraska,5253,31
+US,Nebraska,324,1
+US,Nebraska,1179,9
+US,Nebraska,10055,62
+US,Nebraska,148640,718
+US,Nebraska,350,4
+US,Nebraska,1126,8
+US,Nebraska,419,4
+US,Nebraska,542,1
+US,Nebraska,1123,5
+US,Nebraska,3570,19
+US,Nebraska,366,1
+US,Nebraska,398,1
+US,Nebraska,370,5
+US,Nebraska,107,4
+US,Nebraska,409,1
+US,Nebraska,16472,117
+US,Nebraska,2250,17
+US,Nebraska,375,0
+US,Nebraska,105,0
+US,Nebraska,531,5
+US,Nebraska,2138,16
+US,Nebraska,112,2
+US,Nebraska,1184,10
+US,Nebraska,1213,1
+US,Nebraska,867,9
+US,Nebraska,1178,5
+US,Nebraska,1530,10
+US,Nebraska,118,0
+US,Nebraska,766,1
+US,Nebraska,1678,12
+US,Nebraska,77698,170
+US,Nebraska,8666,60
+US,Nebraska,148,0
+US,Nebraska,87,0
+US,Nebraska,9653,44
+US,Nebraska,74,1
+US,Nebraska,1702,15
+US,Nebraska,1235,7
+US,Nebraska,796,10
+US,Nebraska,1482,15
+US,Nebraska,970,11
+US,Nebraska,3335,10
+US,Nebraska,409,1
+US,Nebraska,530,11
+US,Nebraska,2323,10
+US,Nebraska,1273,20
+US,Nebraska,8617,50
+US,Nebraska,1224,9
+US,Nebraska,2320,15
+US,Nebraska,1803,19
+US,Nebraska,172,2
+US,Nebraska,3800,2
+US,Nebraska,49522,131
+US,Nebraska,4993,16
+US,Nebraska,9390,48
+US,Nebraska,3364,32
+US,Nebraska,995,10
+US,Nebraska,584,4
+US,Nebraska,66,0
+US,Nebraska,745,11
+US,Nebraska,1108,4
+US,Nebraska,95,1
+US,Nebraska,1777,11
+US,Nebraska,4714,1792
+US,Nebraska,745,2
+US,Nebraska,4538,25
+US,Nebraska,1822,7
+US,Nebraska,709,7
+US,Nebraska,127,0
+US,Nebraska,3894,11
+US,Nevada,14470,206
+US,Nevada,6466,106
+US,Nevada,513436,7617
+US,Nevada,7952,88
+US,Nevada,12338,135
+US,Nevada,90,3
+US,Nevada,309,0
+US,Nevada,4506,53
+US,Nevada,1188,20
+US,Nevada,958,7
+US,Nevada,10743,167
+US,Nevada,960,16
+US,Nevada,6954,234
+US,Nevada,1409,29
+US,Nevada,344,10
+US,Nevada,0,0
+US,Nevada,102736,1164
+US,Nevada,1947,19
+US,New Hampshire,13337,170
+US,New Hampshire,9098,55
+US,New Hampshire,14341,105
+US,New Hampshire,6800,109
+US,New Hampshire,17014,61
+US,New Hampshire,96047,884
+US,New Hampshire,31736,221
+US,New Hampshire,65894,508
+US,New Hampshire,28544,202
+US,New Hampshire,9098,67
+US,New Hampshire,7964,26
+US,New Jersey,67947,985
+US,New Jersey,219635,3408
+US,New Jersey,101130,1181
+US,New Jersey,124498,1775
+US,New Jersey,21692,294
+US,New Jersey,39033,582
+US,New Jersey,209933,3577
+US,New Jersey,69195,941
+US,New Jersey,168997,2706
+US,New Jersey,24192,269
+US,New Jersey,74944,1250
+US,New Jersey,190079,2849
+US,New Jersey,161845,2151
+US,New Jersey,116783,1516
+US,New Jersey,160306,2895
+US,New Jersey,142955,2317
+US,New Jersey,14221,245
+US,New Jersey,66676,962
+US,New Jersey,33548,466
+US,New Jersey,3279,0
+US,New Jersey,143096,2347
+US,New Jersey,23614,338
+US,New Mexico,145504,1675
+US,New Mexico,410,13
+US,New Mexico,21294,299
+US,New Mexico,6855,178
+US,New Mexico,2404,64
+US,New Mexico,12508,181
+US,New Mexico,568,5
+US,New Mexico,62472,715
+US,New Mexico,16964,261
+US,New Mexico,6580,77
+US,New Mexico,1095,17
+US,New Mexico,80,4
+US,New Mexico,1083,13
+US,New Mexico,19152,316
+US,New Mexico,5165,64
+US,New Mexico,2682,13
+US,New Mexico,6675,117
+US,New Mexico,25613,571
+US,New Mexico,751,16
+US,New Mexico,13276,180
+US,New Mexico,1975,49
+US,New Mexico,9681,126
+US,New Mexico,4972,92
+US,New Mexico,40403,726
+US,New Mexico,5733,51
+US,New Mexico,33122,388
+US,New Mexico,27903,253
+US,New Mexico,2017,70
+US,New Mexico,3780,86
+US,New Mexico,5267,89
+US,New Mexico,2658,51
+US,New Mexico,6700,0
+US,New Mexico,778,15
+US,New Mexico,18391,251
+US,New York,58199,504
+US,New York,8834,151
+US,New York,404973,7703
+US,New York,44557,508
+US,New York,15252,217
+US,New York,15711,144
+US,New York,23398,292
+US,New York,21052,227
+US,New York,9178,118
+US,New York,16422,83
+US,New York,9914,140
+US,New York,10338,114
+US,New York,7584,68
+US,New York,63357,650
+US,New York,206348,2593
+US,New York,5489,57
+US,New York,9181,44
+US,New York,12324,166
+US,New York,13548,184
+US,New York,8466,123
+US,New York,842,5
+US,New York,13582,189
+US,New York,19694,131
+US,New York,687501,12734
+US,New York,6104,47
+US,New York,11499,113
+US,New York,12765,125
+US,New York,149660,1543
+US,New York,11710,199
+US,New York,399215,3811
+US,New York,404317,5411
+US,New York,47355,564
+US,New York,52367,780
+US,New York,108013,1035
+US,New York,19564,172
+US,New York,108762,1104
+US,New York,8539,112
+US,New York,25181,182
+US,New York,9692,88
+US,New York,0,455
+US,New York,23360,121
+US,New York,635633,11776
+US,New York,30977,245
+US,New York,164411,2289
+US,New York,91365,890
+US,New York,45346,320
+US,New York,32449,296
+US,New York,4921,34
+US,New York,3394,25
+US,New York,5785,89
+US,New York,20659,180
+US,New York,19611,241
+US,New York,423368,4349
+US,New York,18228,128
+US,New York,10534,82
+US,New York,17634,82
+US,New York,30973,360
+US,New York,455,1
+US,New York,13348,123
+US,New York,11903,113
+US,New York,16952,168
+US,New York,247452,2692
+US,New York,8234,82
+US,New York,3322,39
+US,North Carolina,46374,447
+US,North Carolina,10366,133
+US,North Carolina,2927,12
+US,North Carolina,6506,96
+US,North Carolina,6350,73
+US,North Carolina,4413,42
+US,North Carolina,12185,159
+US,North Carolina,4209,66
+US,North Carolina,9277,119
+US,North Carolina,29487,305
+US,North Carolina,51382,540
+US,North Carolina,24714,302
+US,North Carolina,55070,463
+US,North Carolina,22006,295
+US,North Carolina,1722,9
+US,North Carolina,13979,85
+US,North Carolina,5206,44
+US,North Carolina,47345,554
+US,North Carolina,12542,108
+US,North Carolina,7077,115
+US,North Carolina,4107,54
+US,North Carolina,2615,39
+US,North Carolina,29476,362
+US,North Carolina,15849,265
+US,North Carolina,23858,191
+US,North Carolina,82172,557
+US,North Carolina,4852,32
+US,North Carolina,7319,23
+US,North Carolina,42774,390
+US,North Carolina,11061,90
+US,North Carolina,16731,232
+US,North Carolina,69494,298
+US,North Carolina,13385,141
+US,North Carolina,91574,773
+US,North Carolina,20092,65
+US,North Carolina,64809,784
+US,North Carolina,1859,19
+US,North Carolina,2265,30
+US,North Carolina,14116,111
+US,North Carolina,5754,56
+US,North Carolina,115213,1115
+US,North Carolina,13879,177
+US,North Carolina,32210,315
+US,North Carolina,12827,194
+US,North Carolina,24661,287
+US,North Carolina,4678,81
+US,North Carolina,14498,102
+US,North Carolina,1303,13
+US,North Carolina,47960,438
+US,North Carolina,9232,86
+US,North Carolina,58466,427
+US,North Carolina,2197,38
+US,North Carolina,15827,137
+US,North Carolina,15606,204
+US,North Carolina,24117,158
+US,North Carolina,7451,106
+US,North Carolina,5031,79
+US,North Carolina,6038,89
+US,North Carolina,13455,163
+US,North Carolina,275821,1550
+US,North Carolina,3261,34
+US,North Carolina,7237,126
+US,North Carolina,24024,314
+US,North Carolina,26851,292
+US,North Carolina,49382,378
+US,North Carolina,4303,82
+US,North Carolina,51617,367
+US,North Carolina,25656,123
+US,North Carolina,2585,27
+US,North Carolina,8315,111
+US,North Carolina,15209,118
+US,North Carolina,2732,18
+US,North Carolina,9167,104
+US,North Carolina,52185,152
+US,North Carolina,3821,53
+US,North Carolina,35249,397
+US,North Carolina,12515,185
+US,North Carolina,40291,519
+US,North Carolina,21779,262
+US,North Carolina,40888,562
+US,North Carolina,17340,393
+US,North Carolina,18601,165
+US,North Carolina,9899,126
+US,North Carolina,19344,250
+US,North Carolina,11096,170
+US,North Carolina,20895,328
+US,North Carolina,3439,37
+US,North Carolina,6081,69
+US,North Carolina,973,8
+US,North Carolina,3,0
+US,North Carolina,61292,476
+US,North Carolina,11778,112
+US,North Carolina,287434,1032
+US,North Carolina,4286,39
+US,North Carolina,3000,50
+US,North Carolina,12236,56
+US,North Carolina,27906,380
+US,North Carolina,17537,253
+US,North Carolina,21402,300
+US,North Carolina,10707,107
+US,North Carolina,4886,51
+US,North Dakota,594,10
+US,North Dakota,2959,46
+US,North Dakota,1958,22
+US,North Dakota,142,1
+US,North Dakota,1579,25
+US,North Dakota,829,9
+US,North Dakota,430,3
+US,North Dakota,34762,301
+US,North Dakota,58666,331
+US,North Dakota,814,7
+US,North Dakota,1481,39
+US,North Dakota,454,4
+US,North Dakota,1029,8
+US,North Dakota,755,6
+US,North Dakota,728,18
+US,North Dakota,982,23
+US,North Dakota,475,4
+US,North Dakota,22021,124
+US,North Dakota,450,11
+US,North Dakota,567,2
+US,North Dakota,820,8
+US,North Dakota,503,13
+US,North Dakota,983,20
+US,North Dakota,434,12
+US,North Dakota,1297,31
+US,North Dakota,682,9
+US,North Dakota,3251,25
+US,North Dakota,2725,49
+US,North Dakota,2554,24
+US,North Dakota,11168,142
+US,North Dakota,3218,36
+US,North Dakota,758,18
+US,North Dakota,326,5
+US,North Dakota,1961,16
+US,North Dakota,1058,32
+US,North Dakota,3611,56
+US,North Dakota,1488,28
+US,North Dakota,548,15
+US,North Dakota,4022,23
+US,North Dakota,5910,41
+US,North Dakota,1029,9
+US,North Dakota,293,7
+US,North Dakota,1334,19
+US,North Dakota,63,0
+US,North Dakota,11602,85
+US,North Dakota,383,2
+US,North Dakota,7013,97
+US,North Dakota,634,12
+US,North Dakota,2184,26
+US,North Dakota,0,0
+US,North Dakota,3331,34
+US,North Dakota,20654,251
+US,North Dakota,1007,11
+US,North Dakota,10436,68
+US,Northern Mariana Islands,10284,30
+US,Ohio,6914,139
+US,Ohio,27358,469
+US,Ohio,11916,212
+US,Ohio,19642,409
+US,Ohio,14381,131
+US,Ohio,11546,181
+US,Ohio,15578,288
+US,Ohio,11151,173
+US,Ohio,90939,1112
+US,Ohio,5247,122
+US,Ohio,8688,144
+US,Ohio,34875,555
+US,Ohio,51053,527
+US,Ohio,10284,160
+US,Ohio,24288,475
+US,Ohio,7926,152
+US,Ohio,11129,207
+US,Ohio,267088,3672
+US,Ohio,12340,231
+US,Ohio,10174,162
+US,Ohio,43966,264
+US,Ohio,19348,263
+US,Ohio,38277,417
+US,Ohio,7757,115
+US,Ohio,286879,2492
+US,Ohio,10295,175
+US,Ohio,7430,118
+US,Ohio,15933,261
+US,Ohio,37352,499
+US,Ohio,10411,149
+US,Ohio,186297,1991
+US,Ohio,17052,270
+US,Ohio,7049,150
+US,Ohio,3206,73
+US,Ohio,6416,106
+US,Ohio,10587,175
+US,Ohio,6577,116
+US,Ohio,5091,180
+US,Ohio,14424,219
+US,Ohio,8860,136
+US,Ohio,14625,306
+US,Ohio,13087,224
+US,Ohio,48656,723
+US,Ohio,17745,233
+US,Ohio,41449,468
+US,Ohio,10182,166
+US,Ohio,66249,955
+US,Ohio,99199,1366
+US,Ohio,9624,126
+US,Ohio,53161,1055
+US,Ohio,19779,262
+US,Ohio,39857,496
+US,Ohio,4580,80
+US,Ohio,9665,133
+US,Ohio,25653,470
+US,Ohio,3444,79
+US,Ohio,126315,1936
+US,Ohio,3258,55
+US,Ohio,7721,99
+US,Ohio,25188,287
+US,Ohio,3191,55
+US,Ohio,8430,136
+US,Ohio,4593,74
+US,Ohio,8240,123
+US,Ohio,17435,221
+US,Ohio,7433,111
+US,Ohio,33944,439
+US,Ohio,9427,193
+US,Ohio,8431,153
+US,Ohio,31397,497
+US,Ohio,19153,292
+US,Ohio,13844,230
+US,Ohio,20511,244
+US,Ohio,12717,223
+US,Ohio,11021,185
+US,Ohio,79500,1672
+US,Ohio,111768,1666
+US,Ohio,41297,913
+US,Ohio,20532,484
+US,Ohio,0,5
+US,Ohio,15520,98
+US,Ohio,6699,140
+US,Ohio,2890,55
+US,Ohio,57375,561
+US,Ohio,12310,197
+US,Ohio,23043,429
+US,Ohio,8977,159
+US,Ohio,31318,347
+US,Ohio,5400,101
+US,Oklahoma,7808,69
+US,Oklahoma,1704,14
+US,Oklahoma,3825,45
+US,Oklahoma,949,10
+US,Oklahoma,5885,100
+US,Oklahoma,2405,38
+US,Oklahoma,13483,127
+US,Oklahoma,8185,155
+US,Oklahoma,38719,365
+US,Oklahoma,13800,220
+US,Oklahoma,14459,139
+US,Oklahoma,4048,57
+US,Oklahoma,562,6
+US,Oklahoma,78440,765
+US,Oklahoma,1646,20
+US,Oklahoma,31417,364
+US,Oklahoma,1410,24
+US,Oklahoma,4676,51
+US,Oklahoma,18045,312
+US,Oklahoma,7747,160
+US,Oklahoma,10982,192
+US,Oklahoma,1058,28
+US,Oklahoma,766,7
+US,Oklahoma,15068,263
+US,Oklahoma,6978,132
+US,Oklahoma,13625,231
+US,Oklahoma,1027,14
+US,Oklahoma,1279,30
+US,Oklahoma,515,11
+US,Oklahoma,702,12
+US,Oklahoma,2767,37
+US,Oklahoma,2543,58
+US,Oklahoma,6533,97
+US,Oklahoma,1281,23
+US,Oklahoma,2998,51
+US,Oklahoma,12082,207
+US,Oklahoma,4108,62
+US,Oklahoma,1943,50
+US,Oklahoma,2269,32
+US,Oklahoma,12345,104
+US,Oklahoma,7772,127
+US,Oklahoma,10670,152
+US,Oklahoma,3028,36
+US,Oklahoma,2433,39
+US,Oklahoma,4527,39
+US,Oklahoma,10196,153
+US,Oklahoma,11531,125
+US,Oklahoma,7995,159
+US,Oklahoma,4879,118
+US,Oklahoma,4151,68
+US,Oklahoma,19823,319
+US,Oklahoma,3004,36
+US,Oklahoma,2767,36
+US,Oklahoma,3505,56
+US,Oklahoma,194092,2272
+US,Oklahoma,9635,173
+US,Oklahoma,10823,158
+US,Oklahoma,9074,121
+US,Oklahoma,0,0
+US,Oklahoma,4070,82
+US,Oklahoma,18116,149
+US,Oklahoma,10726,195
+US,Oklahoma,11857,125
+US,Oklahoma,20462,263
+US,Oklahoma,2626,42
+US,Oklahoma,864,15
+US,Oklahoma,25193,363
+US,Oklahoma,6061,125
+US,Oklahoma,10559,100
+US,Oklahoma,10851,189
+US,Oklahoma,5957,53
+US,Oklahoma,1504,30
+US,Oklahoma,168447,2028
+US,Oklahoma,3018,1558
+US,Oklahoma,21487,256
+US,Oklahoma,12590,239
+US,Oklahoma,2613,46
+US,Oklahoma,2340,36
+US,Oklahoma,5143,72
+US,Oregon,3198,46
+US,Oregon,14917,63
+US,Oregon,59431,541
+US,Oregon,4538,38
+US,Oregon,7489,76
+US,Oregon,10534,144
+US,Oregon,6010,77
+US,Oregon,3306,44
+US,Oregon,45486,250
+US,Oregon,19562,373
+US,Oregon,283,5
+US,Oregon,1597,18
+US,Oregon,1593,37
+US,Oregon,3501,42
+US,Oregon,42310,495
+US,Oregon,7167,84
+US,Oregon,16150,314
+US,Oregon,14007,198
+US,Oregon,1388,24
+US,Oregon,56610,475
+US,Oregon,6956,76
+US,Oregon,26224,237
+US,Oregon,8187,101
+US,Oregon,68521,669
+US,Oregon,2946,32
+US,Oregon,111582,1079
+US,Oregon,15146,127
+US,Oregon,316,4
+US,Oregon,3605,58
+US,Oregon,22267,204
+US,Oregon,0,0
+US,Oregon,5005,74
+US,Oregon,1241,14
+US,Oregon,5081,56
+US,Oregon,84554,524
+US,Oregon,243,3
+US,Oregon,17613,198
+US,Pennsylvania,24614,354
+US,Pennsylvania,261659,3243
+US,Pennsylvania,15166,336
+US,Pennsylvania,39911,713
+US,Pennsylvania,10912,271
+US,Pennsylvania,101794,1578
+US,Pennsylvania,29485,600
+US,Pennsylvania,14910,195
+US,Pennsylvania,122130,1853
+US,Pennsylvania,44172,714
+US,Pennsylvania,34371,710
+US,Pennsylvania,813,19
+US,Pennsylvania,15772,285
+US,Pennsylvania,34867,345
+US,Pennsylvania,90881,1125
+US,Pennsylvania,8182,199
+US,Pennsylvania,19139,332
+US,Pennsylvania,8995,124
+US,Pennsylvania,14950,241
+US,Pennsylvania,19684,311
+US,Pennsylvania,50637,870
+US,Pennsylvania,58832,939
+US,Pennsylvania,109076,1838
+US,Pennsylvania,7088,97
+US,Pennsylvania,56677,740
+US,Pennsylvania,30786,653
+US,Pennsylvania,2235,35
+US,Pennsylvania,40145,675
+US,Pennsylvania,4095,65
+US,Pennsylvania,8378,100
+US,Pennsylvania,11443,240
+US,Pennsylvania,17284,346
+US,Pennsylvania,8915,223
+US,Pennsylvania,4752,174
+US,Pennsylvania,43029,735
+US,Pennsylvania,120366,1862
+US,Pennsylvania,18807,408
+US,Pennsylvania,36375,505
+US,Pennsylvania,88933,1228
+US,Pennsylvania,73069,1317
+US,Pennsylvania,28284,507
+US,Pennsylvania,8113,138
+US,Pennsylvania,23212,490
+US,Pennsylvania,12224,274
+US,Pennsylvania,36704,514
+US,Pennsylvania,150310,2285
+US,Pennsylvania,4489,91
+US,Pennsylvania,78974,1074
+US,Pennsylvania,22699,525
+US,Pennsylvania,8795,180
+US,Pennsylvania,305790,5013
+US,Pennsylvania,9938,93
+US,Pennsylvania,3140,91
+US,Pennsylvania,34253,662
+US,Pennsylvania,8060,154
+US,Pennsylvania,18629,396
+US,Pennsylvania,1045,36
+US,Pennsylvania,7668,107
+US,Pennsylvania,7909,190
+US,Pennsylvania,0,0
+US,Pennsylvania,11633,151
+US,Pennsylvania,11196,233
+US,Pennsylvania,7266,207
+US,Pennsylvania,50487,638
+US,Pennsylvania,10026,166
+US,Pennsylvania,79243,1350
+US,Pennsylvania,5039,103
+US,Pennsylvania,118068,1464
+US,Puerto Rico,2086,0
+US,Puerto Rico,5759,0
+US,Puerto Rico,6585,0
+US,Puerto Rico,3701,0
+US,Puerto Rico,3321,0
+US,Puerto Rico,3269,0
+US,Puerto Rico,11665,0
+US,Puerto Rico,1656,0
+US,Puerto Rico,2971,0
+US,Puerto Rico,4197,0
+US,Puerto Rico,30731,0
+US,Puerto Rico,4562,0
+US,Puerto Rico,19795,0
+US,Puerto Rico,4371,0
+US,Puerto Rico,5860,0
+US,Puerto Rico,25433,0
+US,Puerto Rico,3716,0
+US,Puerto Rico,5298,0
+US,Puerto Rico,1210,0
+US,Puerto Rico,2322,0
+US,Puerto Rico,5229,0
+US,Puerto Rico,4072,0
+US,Puerto Rico,2576,0
+US,Puerto Rico,5490,0
+US,Puerto Rico,157,0
+US,Puerto Rico,5906,0
+US,Puerto Rico,4021,0
+US,Puerto Rico,2089,0
+US,Puerto Rico,1314,0
+US,Puerto Rico,4262,0
+US,Puerto Rico,1802,0
+US,Puerto Rico,13865,0
+US,Puerto Rico,6696,0
+US,Puerto Rico,4784,0
+US,Puerto Rico,1665,0
+US,Puerto Rico,7005,0
+US,Puerto Rico,6206,0
+US,Puerto Rico,1861,0
+US,Puerto Rico,5432,0
+US,Puerto Rico,5684,0
+US,Puerto Rico,2264,0
+US,Puerto Rico,3285,0
+US,Puerto Rico,988,0
+US,Puerto Rico,4794,0
+US,Puerto Rico,2951,0
+US,Puerto Rico,2268,0
+US,Puerto Rico,5356,0
+US,Puerto Rico,500,0
+US,Puerto Rico,1229,0
+US,Puerto Rico,8850,0
+US,Puerto Rico,5364,0
+US,Puerto Rico,4199,0
+US,Puerto Rico,3102,0
+US,Puerto Rico,4449,0
+US,Puerto Rico,2606,0
+US,Puerto Rico,434,0
+US,Puerto Rico,1815,0
+US,Puerto Rico,2100,0
+US,Puerto Rico,16409,0
+US,Puerto Rico,3495,0
+US,Puerto Rico,2002,0
+US,Puerto Rico,6829,0
+US,Puerto Rico,2061,0
+US,Puerto Rico,2908,0
+US,Puerto Rico,3218,0
+US,Puerto Rico,54882,0
+US,Puerto Rico,4942,0
+US,Puerto Rico,5388,0
+US,Puerto Rico,2268,0
+US,Puerto Rico,10819,0
+US,Puerto Rico,11462,0
+US,Puerto Rico,8974,0
+US,Puerto Rico,15492,4144
+US,Puerto Rico,3034,0
+US,Puerto Rico,5535,0
+US,Puerto Rico,9605,0
+US,Puerto Rico,625,0
+US,Puerto Rico,2796,0
+US,Puerto Rico,3934,0
+US,Puerto Rico,3690,0
+US,Recovered,0,0
+US,Rhode Island,13228,166
+US,Rhode Island,47562,492
+US,Rhode Island,19548,81
+US,Rhode Island,217616,2453
+US,Rhode Island,27956,8
+US,Rhode Island,31530,219
+US,South Carolina,6617,67
+US,South Carolina,41180,433
+US,South Carolina,2074,24
+US,South Carolina,57592,959
+US,South Carolina,3406,74
+US,South Carolina,5794,99
+US,South Carolina,42849,369
+US,South Carolina,51512,432
+US,South Carolina,2769,60
+US,South Carolina,111132,905
+US,South Carolina,14500,311
+US,South Carolina,10083,141
+US,South Carolina,11736,184
+US,South Carolina,8695,157
+US,South Carolina,8820,216
+US,South Carolina,18854,301
+US,South Carolina,9685,141
+US,South Carolina,55712,480
+US,South Carolina,6717,67
+US,South Carolina,5965,104
+US,South Carolina,41618,619
+US,South Carolina,15773,220
+US,South Carolina,171511,1928
+US,South Carolina,22449,293
+US,South Carolina,4997,81
+US,South Carolina,95911,1123
+US,South Carolina,5881,93
+US,South Carolina,21358,248
+US,South Carolina,24963,275
+US,South Carolina,18537,287
+US,South Carolina,4235,92
+US,South Carolina,95372,847
+US,South Carolina,8514,160
+US,South Carolina,7839,104
+US,South Carolina,2220,38
+US,South Carolina,13237,184
+US,South Carolina,24087,329
+US,South Carolina,23238,406
+US,South Carolina,45665,603
+US,South Carolina,121915,914
+US,South Carolina,3918,74
+US,South Carolina,94159,1518
+US,South Carolina,27709,382
+US,South Carolina,0,0
+US,South Carolina,7625,146
+US,South Carolina,8517,144
+US,South Carolina,77284,619
+US,South Dakota,767,17
+US,South Dakota,4567,57
+US,South Dakota,785,14
+US,South Dakota,2289,38
+US,South Dakota,8075,51
+US,South Dakota,10240,119
+US,South Dakota,1408,19
+US,South Dakota,618,17
+US,South Dakota,2729,44
+US,South Dakota,265,7
+US,South Dakota,2923,33
+US,South Dakota,785,8
+US,South Dakota,3480,21
+US,South Dakota,8375,99
+US,South Dakota,1060,17
+US,South Dakota,2017,23
+US,South Dakota,5846,77
+US,South Dakota,1269,35
+US,South Dakota,1034,12
+US,South Dakota,3134,40
+US,South Dakota,682,16
+US,South Dakota,936,16
+US,South Dakota,1799,39
+US,South Dakota,562,16
+US,South Dakota,2030,50
+US,South Dakota,1064,34
+US,South Dakota,450,12
+US,South Dakota,1495,41
+US,South Dakota,560,11
+US,South Dakota,652,6
+US,South Dakota,200,3
+US,South Dakota,4292,57
+US,South Dakota,1726,36
+US,South Dakota,306,8
+US,South Dakota,627,21
+US,South Dakota,412,20
+US,South Dakota,177,2
+US,South Dakota,1309,21
+US,South Dakota,2320,27
+US,South Dakota,6548,82
+US,South Dakota,15462,100
+US,South Dakota,1203,12
+US,South Dakota,781,13
+US,South Dakota,1341,31
+US,South Dakota,426,9
+US,South Dakota,6978,62
+US,South Dakota,524,7
+US,South Dakota,454,13
+US,South Dakota,56891,505
+US,South Dakota,1373,28
+US,South Dakota,3904,60
+US,South Dakota,32546,333
+US,South Dakota,680,18
+US,South Dakota,698,7
+US,South Dakota,2416,50
+US,South Dakota,572,6
+US,South Dakota,1406,35
+US,South Dakota,631,6
+US,South Dakota,245,3
+US,South Dakota,2959,50
+US,South Dakota,1377,24
+US,South Dakota,1957,62
+US,South Dakota,0,0
+US,South Dakota,3997,52
+US,South Dakota,1307,25
+US,South Dakota,5897,56
+US,South Dakota,665,11
+US,Tennessee,21942,312
+US,Tennessee,14906,221
+US,Tennessee,4453,90
+US,Tennessee,4645,53
+US,Tennessee,38940,399
+US,Tennessee,33031,387
+US,Tennessee,12010,153
+US,Tennessee,4170,56
+US,Tennessee,8914,150
+US,Tennessee,16377,316
+US,Tennessee,10876,117
+US,Tennessee,5768,93
+US,Tennessee,9027,167
+US,Tennessee,2219,47
+US,Tennessee,11508,201
+US,Tennessee,16894,250
+US,Tennessee,5150,82
+US,Tennessee,16042,310
+US,Tennessee,189938,1601
+US,Tennessee,6268,97
+US,Tennessee,3715,64
+US,Tennessee,15826,235
+US,Tennessee,12720,192
+US,Tennessee,11387,171
+US,Tennessee,5681,117
+US,Tennessee,12802,165
+US,Tennessee,17286,252
+US,Tennessee,9382,172
+US,Tennessee,6747,103
+US,Tennessee,21952,353
+US,Tennessee,3974,69
+US,Tennessee,19651,345
+US,Tennessee,99176,1082
+US,Tennessee,1998,32
+US,Tennessee,7550,113
+US,Tennessee,8695,137
+US,Tennessee,16546,291
+US,Tennessee,6131,97
+US,Tennessee,9035,147
+US,Tennessee,8221,148
+US,Tennessee,6808,104
+US,Tennessee,2667,59
+US,Tennessee,4834,69
+US,Tennessee,3199,60
+US,Tennessee,15650,255
+US,Tennessee,5131,87
+US,Tennessee,126782,1300
+US,Tennessee,2733,40
+US,Tennessee,7713,98
+US,Tennessee,14241,187
+US,Tennessee,3567,50
+US,Tennessee,9949,156
+US,Tennessee,14363,186
+US,Tennessee,8405,138
+US,Tennessee,29657,411
+US,Tennessee,8810,124
+US,Tennessee,10334,116
+US,Tennessee,28815,320
+US,Tennessee,16630,240
+US,Tennessee,7608,113
+US,Tennessee,3347,54
+US,Tennessee,14442,217
+US,Tennessee,49919,550
+US,Tennessee,2235,39
+US,Tennessee,6145,78
+US,Tennessee,10742,179
+US,Tennessee,48560,254
+US,Tennessee,7139,120
+US,Tennessee,2327,48
+US,Tennessee,1763,31
+US,Tennessee,4711,65
+US,Tennessee,25037,295
+US,Tennessee,9936,148
+US,Tennessee,15712,225
+US,Tennessee,21471,290
+US,Tennessee,95362,865
+US,Tennessee,8987,111
+US,Tennessee,4194,66
+US,Tennessee,30156,393
+US,Tennessee,234638,3178
+US,Tennessee,6154,76
+US,Tennessee,3280,52
+US,Tennessee,45533,669
+US,Tennessee,52955,687
+US,Tennessee,17564,221
+US,Tennessee,4206,45
+US,Tennessee,37812,259
+US,Tennessee,5138,90
+US,Tennessee,5382,70
+US,Tennessee,1845,46
+US,Tennessee,12970,167
+US,Tennessee,38342,469
+US,Tennessee,5672,60
+US,Tennessee,9474,138
+US,Tennessee,8216,126
+US,Tennessee,61684,386
+US,Tennessee,41449,465
+US,Texas,9504,231
+US,Texas,3790,71
+US,Texas,15253,474
+US,Texas,4056,80
+US,Texas,2109,28
+US,Texas,506,9
+US,Texas,13331,229
+US,Texas,5596,71
+US,Texas,1385,38
+US,Texas,3541,74
+US,Texas,21619,227
+US,Texas,809,32
+US,Texas,8181,151
+US,Texas,66580,870
+US,Texas,547698,5975
+US,Texas,2508,34
+US,Texas,95,2
+US,Texas,4028,70
+US,Texas,19759,415
+US,Texas,92879,974
+US,Texas,59767,404
+US,Texas,1053,27
+US,Texas,445,8
+US,Texas,1606,51
+US,Texas,10941,224
+US,Texas,4995,66
+US,Texas,10733,165
+US,Texas,14083,173
+US,Texas,5672,48
+US,Texas,2784,72
+US,Texas,99287,1998
+US,Texas,2809,73
+US,Texas,1496,34
+US,Texas,7071,190
+US,Texas,2261,46
+US,Texas,10276,69
+US,Texas,7924,248
+US,Texas,2588,29
+US,Texas,2047,32
+US,Texas,875,23
+US,Texas,832,19
+US,Texas,1617,69
+US,Texas,204947,1456
+US,Texas,688,16
+US,Texas,3736,61
+US,Texas,32427,537
+US,Texas,3135,78
+US,Texas,1070,11
+US,Texas,7199,130
+US,Texas,17141,208
+US,Texas,281,9
+US,Texas,1266,24
+US,Texas,984,19
+US,Texas,1843,45
+US,Texas,508,14
+US,Texas,2126,40
+US,Texas,566551,6564
+US,Texas,2783,93
+US,Texas,6425,96
+US,Texas,4505,111
+US,Texas,1796,24
+US,Texas,177052,1317
+US,Texas,426,16
+US,Texas,5732,51
+US,Texas,1065,24
+US,Texas,3314,68
+US,Texas,2776,111
+US,Texas,36988,685
+US,Texas,465,11
+US,Texas,204932,3674
+US,Texas,48442,573
+US,Texas,8630,123
+US,Texas,3735,63
+US,Texas,6785,179
+US,Texas,4741,100
+US,Texas,605,24
+US,Texas,1924,48
+US,Texas,199,11
+US,Texas,177997,1197
+US,Texas,2134,40
+US,Texas,3842,82
+US,Texas,5643,91
+US,Texas,1886,83
+US,Texas,94848,832
+US,Texas,1233,27
+US,Texas,5303,106
+US,Texas,197,3
+US,Texas,1187,32
+US,Texas,4683,95
+US,Texas,6096,122
+US,Texas,27022,619
+US,Texas,23061,659
+US,Texas,8424,119
+US,Texas,37088,392
+US,Texas,6524,241
+US,Texas,1067,22
+US,Texas,1958,32
+US,Texas,1904,29
+US,Texas,555,19
+US,Texas,12001,247
+US,Texas,995185,10747
+US,Texas,13083,223
+US,Texas,1339,3
+US,Texas,891,39
+US,Texas,59729,492
+US,Texas,1184,7
+US,Texas,15341,417
+US,Texas,196096,3838
+US,Texas,8818,191
+US,Texas,7612,158
+US,Texas,13300,266
+US,Texas,7177,177
+US,Texas,4010,107
+US,Texas,6694,178
+US,Texas,981,16
+US,Texas,15683,357
+US,Texas,6615,133
+US,Texas,438,3
+US,Texas,1498,28
+US,Texas,3225,59
+US,Texas,6059,181
+US,Texas,221,9
+US,Texas,44724,813
+US,Texas,2599,22
+US,Texas,11088,204
+US,Texas,42023,714
+US,Texas,4519,90
+US,Texas,5512,67
+US,Texas,34978,525
+US,Texas,8045,116
+US,Texas,82,2
+US,Texas,202,4
+US,Texas,9508,179
+US,Texas,677,15
+US,Texas,41,0
+US,Texas,735,10
+US,Texas,7134,143
+US,Texas,491,24
+US,Texas,2328,46
+US,Texas,9554,250
+US,Texas,4290,122
+US,Texas,5507,89
+US,Texas,4172,115
+US,Texas,4222,60
+US,Texas,3686,90
+US,Texas,17576,396
+US,Texas,5067,122
+US,Texas,649,16
+US,Texas,2135,40
+US,Texas,3857,97
+US,Texas,166,1
+US,Texas,93184,1300
+US,Texas,1425,37
+US,Texas,3688,53
+US,Texas,1659,59
+US,Texas,1168,26
+US,Texas,779,12
+US,Texas,8201,174
+US,Texas,20682,456
+US,Texas,1257,46
+US,Texas,56677,891
+US,Texas,168,9
+US,Texas,10038,195
+US,Texas,511,12
+US,Texas,37625,487
+US,Texas,4905,100
+US,Texas,1468,34
+US,Texas,1861,47
+US,Texas,4628,122
+US,Texas,135771,1269
+US,Texas,5456,110
+US,Texas,2493,69
+US,Texas,271,12
+US,Texas,12099,255
+US,Texas,12406,217
+US,Texas,1359,59
+US,Texas,3050,97
+US,Texas,98221,1462
+US,Texas,2207,48
+US,Texas,547,6
+US,Texas,14907,344
+US,Texas,7006,151
+US,Texas,4515,128
+US,Texas,34004,437
+US,Texas,2279,52
+US,Texas,2648,69
+US,Texas,7784,245
+US,Texas,35272,689
+US,Texas,964,35
+US,Texas,1829,57
+US,Texas,27216,478
+US,Texas,855,14
+US,Texas,806,24
+US,Texas,2269,64
+US,Texas,4587,73
+US,Texas,1753,32
+US,Texas,171,2
+US,Texas,4512,75
+US,Texas,26008,258
+US,Texas,2275,64
+US,Texas,10689,227
+US,Texas,1231,87
+US,Texas,1051,42
+US,Texas,5363,100
+US,Texas,11001,336
+US,Texas,1236,35
+US,Texas,520,9
+US,Texas,4960,102
+US,Texas,671,12
+US,Texas,4363,126
+US,Texas,493,16
+US,Texas,45258,945
+US,Texas,2103,35
+US,Texas,19646,360
+US,Texas,1807,45
+US,Texas,245,5
+US,Texas,352,7
+US,Texas,838,12
+US,Texas,1928,33
+US,Texas,559843,5733
+US,Texas,30323,708
+US,Texas,117,3
+US,Texas,2480,84
+US,Texas,267,8
+US,Texas,8446,126
+US,Texas,40861,458
+US,Texas,219430,1685
+US,Texas,2448,72
+US,Texas,3372,83
+US,Texas,74223,23
+US,Texas,7654,178
+US,Texas,827,18
+US,Texas,10540,139
+US,Texas,14252,291
+US,Texas,10339,273
+US,Texas,18416,404
+US,Texas,18315,210
+US,Texas,9359,101
+US,Texas,2804,43
+US,Texas,8996,145
+US,Texas,92490,1010
+US,Texas,8850,207
+US,Texas,1158,21
+US,Texas,29257,654
+US,Texas,3438,86
+US,Texas,6872,125
+US,Texas,131649,864
+US,Texas,10721,155
+US,Texas,1835,34
+US,Texas,16779,261
+US,Texas,7976,279
+US,Texas,1090,41
+US,Texas,3887,89
+US,Texas,3658,52
+US,Texas,4026,67
+US,Utah,51366,230
+US,Utah,20630,159
+US,Utah,99844,380
+US,Utah,340022,1572
+US,Utah,3956,47
+US,Utah,9984,75
+US,Utah,63244,606
+US,Utah,13376,22
+US,Utah,21270,93
+US,Utah,12678,97
+US,Utah,3557,6
+US,Utah,201025,754
+US,Utah,10649,33
+US,Utah,73488,420
+US,Vermont,5255,15
+US,Vermont,9355,65
+US,Vermont,5427,24
+US,Vermont,30069,159
+US,Vermont,1215,3
+US,Vermont,9287,66
+US,Vermont,1001,5
+US,Vermont,3734,17
+US,Vermont,4797,14
+US,Vermont,6060,37
+US,Vermont,12219,71
+US,Vermont,958,2
+US,Vermont,9353,46
+US,Vermont,6518,34
+US,Vermont,8403,50
+US,Virgin Islands,15444,109
+US,Virginia,6914,103
+US,Virginia,15722,144
+US,Virginia,29748,183
+US,Virginia,3563,94
+US,Virginia,2583,58
+US,Virginia,7023,83
+US,Virginia,3686,51
+US,Virginia,40354,318
+US,Virginia,18821,201
+US,Virginia,883,19
+US,Virginia,16565,220
+US,Virginia,1746,20
+US,Virginia,7285,93
+US,Virginia,4365,72
+US,Virginia,3054,44
+US,Virginia,4748,103
+US,Virginia,3786,55
+US,Virginia,1991,39
+US,Virginia,11442,193
+US,Virginia,6753,78
+US,Virginia,6584,136
+US,Virginia,1141,27
+US,Virginia,2382,44
+US,Virginia,10046,72
+US,Virginia,49450,468
+US,Virginia,71079,732
+US,Virginia,2599,41
+US,Virginia,4781,93
+US,Virginia,999,24
+US,Virginia,1109,15
+US,Virginia,11494,143
+US,Virginia,1229,23
+US,Virginia,10940,262
+US,Virginia,3306,45
+US,Virginia,5228,84
+US,Virginia,1143,53
+US,Virginia,2247,31
+US,Virginia,173584,1393
+US,Virginia,1952,43
+US,Virginia,1926,16
+US,Virginia,12823,137
+US,Virginia,2531,45
+US,Virginia,4915,42
+US,Virginia,10655,183
+US,Virginia,2457,50
+US,Virginia,20377,232
+US,Virginia,5256,34
+US,Virginia,2541,76
+US,Virginia,4014,44
+US,Virginia,7252,100
+US,Virginia,3876,43
+US,Virginia,3990,76
+US,Virginia,3975,60
+US,Virginia,3303,37
+US,Virginia,6961,148
+US,Virginia,27399,312
+US,Virginia,21461,265
+US,Virginia,13174,152
+US,Virginia,63506,875
+US,Virginia,11272,245
+US,Virginia,359,7
+US,Virginia,6108,118
+US,Virginia,7237,106
+US,Virginia,14690,114
+US,Virginia,4970,36
+US,Virginia,3660,35
+US,Virginia,1113,11
+US,Virginia,1775,30
+US,Virginia,6181,86
+US,Virginia,2821,39
+US,Virginia,66038,368
+US,Virginia,6454,75
+US,Virginia,2303,30
+US,Virginia,19911,264
+US,Virginia,2152,36
+US,Virginia,9012,70
+US,Virginia,3682,25
+US,Virginia,3178,113
+US,Virginia,1418,28
+US,Virginia,5973,109
+US,Virginia,1794,45
+US,Virginia,18349,144
+US,Virginia,2683,32
+US,Virginia,4561,32
+US,Virginia,35920,380
+US,Virginia,41280,458
+US,Virginia,2133,61
+US,Virginia,2144,43
+US,Virginia,1295,22
+US,Virginia,3971,85
+US,Virginia,6864,85
+US,Virginia,5528,117
+US,Virginia,3542,89
+US,Virginia,8299,137
+US,Virginia,13559,182
+US,Virginia,2320,29
+US,Virginia,20640,311
+US,Virginia,4876,55
+US,Virginia,4672,65
+US,Virginia,8159,63
+US,Virginia,93831,712
+US,Virginia,7165,127
+US,Virginia,4878,46
+US,Virginia,897,9
+US,Virginia,2620,25
+US,Virginia,43862,470
+US,Virginia,21173,270
+US,Virginia,20604,336
+US,Virginia,3214,75
+US,Virginia,14389,222
+US,Virginia,6789,101
+US,Virginia,5632,97
+US,Virginia,5700,102
+US,Virginia,10727,219
+US,Virginia,8660,164
+US,Virginia,3265,88
+US,Virginia,26470,279
+US,Virginia,29849,166
+US,Virginia,5554,105
+US,Virginia,18547,288
+US,Virginia,1076,19
+US,Virginia,2404,39
+US,Virginia,10015,157
+US,Virginia,0,0
+US,Virginia,88619,792
+US,Virginia,8411,146
+US,Virginia,13628,208
+US,Virginia,5281,60
+US,Virginia,3221,49
+US,Virginia,1707,20
+US,Virginia,6245,76
+US,Virginia,10145,184
+US,Virginia,7411,135
+US,Virginia,9664,105
+US,Washington,4898,38
+US,Washington,4442,64
+US,Washington,51837,461
+US,Washington,19911,156
+US,Washington,11080,128
+US,Washington,85592,768
+US,Washington,605,15
+US,Washington,22186,339
+US,Washington,10975,66
+US,Washington,1388,28
+US,Washington,32097,211
+US,Washington,383,7
+US,Washington,25437,209
+US,Washington,16025,195
+US,Washington,9824,71
+US,Washington,2897,28
+US,Washington,368240,2576
+US,Washington,38728,323
+US,Washington,8083,58
+US,Washington,3437,43
+US,Washington,17277,236
+US,Washington,2185,27
+US,Washington,12106,132
+US,Washington,8328,117
+US,Washington,3348,54
+US,Washington,2463,33
+US,Washington,188804,1344
+US,Washington,1167,2
+US,Washington,21808,191
+US,Washington,1470,11
+US,Washington,147591,1074
+US,Washington,121437,1330
+US,Washington,7958,139
+US,Washington,45941,384
+US,Washington,3297,7
+US,Washington,518,6
+US,Washington,14989,140
+US,Washington,36663,278
+US,Washington,8621,90
+US,Washington,70747,754
+US,West Virginia,4756,74
+US,West Virginia,35432,268
+US,West Virginia,6538,74
+US,West Virginia,3836,42
+US,West Virginia,4949,103
+US,West Virginia,27185,359
+US,West Virginia,1812,13
+US,West Virginia,2330,37
+US,West Virginia,2138,18
+US,West Virginia,12944,181
+US,West Virginia,2079,18
+US,West Virginia,3751,56
+US,West Virginia,9373,147
+US,West Virginia,5788,68
+US,West Virginia,6656,140
+US,West Virginia,4164,48
+US,West Virginia,19629,242
+US,West Virginia,6827,131
+US,West Virginia,14109,132
+US,West Virginia,46865,690
+US,West Virginia,5268,80
+US,West Virginia,5472,72
+US,West Virginia,9518,173
+US,West Virginia,14782,169
+US,West Virginia,8800,150
+US,West Virginia,6584,89
+US,West Virginia,5514,64
+US,West Virginia,16751,250
+US,West Virginia,7810,155
+US,West Virginia,7858,119
+US,West Virginia,24324,192
+US,West Virginia,4160,41
+US,West Virginia,4210,68
+US,West Virginia,7234,91
+US,West Virginia,10981,156
+US,West Virginia,1925,17
+US,West Virginia,2055,34
+US,West Virginia,1998,27
+US,West Virginia,9154,129
+US,West Virginia,16513,170
+US,West Virginia,22413,316
+US,West Virginia,9303,77
+US,West Virginia,2403,30
+US,West Virginia,3119,36
+US,West Virginia,2772,49
+US,West Virginia,4460,66
+US,West Virginia,1959,33
+US,West Virginia,2184,30
+US,West Virginia,0,0
+US,West Virginia,6755,85
+US,West Virginia,9757,111
+US,West Virginia,2208,29
+US,West Virginia,4276,80
+US,West Virginia,1433,23
+US,West Virginia,22013,336
+US,West Virginia,6903,100
+US,Wisconsin,4605,53
+US,Wisconsin,3246,36
+US,Wisconsin,13378,139
+US,Wisconsin,3225,38
+US,Wisconsin,83585,495
+US,Wisconsin,3425,12
+US,Wisconsin,3942,41
+US,Wisconsin,14419,115
+US,Wisconsin,18544,176
+US,Wisconsin,7605,117
+US,Wisconsin,15110,124
+US,Wisconsin,4206,28
+US,Wisconsin,122671,491
+US,Wisconsin,26935,314
+US,Wisconsin,6920,63
+US,Wisconsin,11440,73
+US,Wisconsin,13220,70
+US,Wisconsin,29897,180
+US,Wisconsin,1076,15
+US,Wisconsin,31580,247
+US,Wisconsin,2666,50
+US,Wisconsin,12594,143
+US,Wisconsin,8944,52
+US,Wisconsin,5051,60
+US,Wisconsin,5183,26
+US,Wisconsin,1461,47
+US,Wisconsin,5628,41
+US,Wisconsin,21321,229
+US,Wisconsin,7647,64
+US,Wisconsin,43732,615
+US,Wisconsin,5819,56
+US,Wisconsin,34334,168
+US,Wisconsin,3610,22
+US,Wisconsin,5178,80
+US,Wisconsin,6979,142
+US,Wisconsin,20314,183
+US,Wisconsin,39043,478
+US,Wisconsin,11517,114
+US,Wisconsin,3778,55
+US,Wisconsin,1892,13
+US,Wisconsin,266945,2143
+US,Wisconsin,11847,83
+US,Wisconsin,11344,109
+US,Wisconsin,8439,132
+US,Wisconsin,54001,373
+US,Wisconsin,21971,164
+US,Wisconsin,1945,18
+US,Wisconsin,11426,72
+US,Wisconsin,12207,119
+US,Wisconsin,17838,155
+US,Wisconsin,3239,30
+US,Wisconsin,55952,665
+US,Wisconsin,3801,44
+US,Wisconsin,42366,364
+US,Wisconsin,3397,54
+US,Wisconsin,15810,116
+US,Wisconsin,4504,59
+US,Wisconsin,11604,143
+US,Wisconsin,32310,297
+US,Wisconsin,24313,143
+US,Wisconsin,4802,68
+US,Wisconsin,8336,60
+US,Wisconsin,0,0
+US,Wisconsin,5941,91
+US,Wisconsin,5187,87
+US,Wisconsin,26537,276
+US,Wisconsin,3952,45
+US,Wisconsin,37788,310
+US,Wisconsin,111349,1027
+US,Wisconsin,13554,246
+US,Wisconsin,6353,84
+US,Wisconsin,51209,362
+US,Wisconsin,20714,216
+US,Wyoming,9835,47
+US,Wyoming,2573,60
+US,Wyoming,12061,142
+US,Wyoming,4600,51
+US,Wyoming,3129,53
+US,Wyoming,1346,28
+US,Wyoming,13701,183
+US,Wyoming,3603,56
+US,Wyoming,1149,15
+US,Wyoming,1842,19
+US,Wyoming,26000,279
+US,Wyoming,3966,29
+US,Wyoming,22183,265
+US,Wyoming,653,9
+US,Wyoming,6730,136
+US,Wyoming,1898,39
+US,Wyoming,8035,74
+US,Wyoming,1922,27
+US,Wyoming,11026,123
+US,Wyoming,9825,16
+US,Wyoming,5628,37
+US,Wyoming,0,0
+US,Wyoming,2345,43
+US,Wyoming,1579,18
+Uganda,,163454,3593
+Ukraine,Cherkasy Oblast,163768,2973
+Ukraine,Chernihiv Oblast,126202,2751
+Ukraine,Chernivtsi Oblast,150465,3290
+Ukraine,Crimea Republic*,157596,4866
+Ukraine,Dnipropetrovsk Oblast,303551,9454
+Ukraine,Donetsk Oblast,216052,5607
+Ukraine,Ivano-Frankivsk Oblast,181629,3476
+Ukraine,Kharkiv Oblast,305661,6858
+Ukraine,Kherson Oblast,107686,2881
+Ukraine,Khmelnytskyi Oblast,201270,3703
+Ukraine,Kiev,445098,8966
+Ukraine,Kiev Oblast,226220,5019
+Ukraine,Kirovohrad Oblast,45117,1741
+Ukraine,Luhansk Oblast,80033,2392
+Ukraine,Lviv Oblast,303357,6569
+Ukraine,Mykolaiv Oblast,146174,3530
+Ukraine,Odessa Oblast,325462,5917
+Ukraine,Poltava Oblast,179994,4181
+Ukraine,Rivne Oblast,171031,2530
+Ukraine,Sevastopol*,73298,2088
+Ukraine,Sumy Oblast,182268,3208
+Ukraine,Ternopil Oblast,146363,2391
+Ukraine,Vinnytsia Oblast,149845,3546
+Ukraine,Volyn Oblast,132045,2394
+Ukraine,Zakarpattia Oblast,112462,2724
+Ukraine,Zaporizhia Oblast,215070,5866
+Ukraine,Zhytomyr Oblast,192801,3538
+United Arab Emirates,,883985,2302
+United Kingdom,Anguilla,2574,9
+United Kingdom,Bermuda,11743,123
+United Kingdom,British Virgin Islands,6091,62
+United Kingdom,Cayman Islands,19811,18
+United Kingdom,Channel Islands,0,0
+United Kingdom,England,16373115,141296
+United Kingdom,Falkland Islands (Malvinas),116,0
+United Kingdom,Gibraltar,15899,101
+United Kingdom,Guernsey,15630,31
+United Kingdom,Isle of Man,23962,80
+United Kingdom,Jersey,39802,115
+United Kingdom,Montserrat,164,2
+United Kingdom,Northern Ireland,644192,3241
+United Kingdom,"Saint Helena, Ascension and Tristan da Cunha",4,0
+United Kingdom,Scotland,1533640,10906
+United Kingdom,Turks and Caicos Islands,5867,36
+United Kingdom,Unknown,0,0
+United Kingdom,Wales,822937,7039
+Uruguay,,859165,7069
+Uzbekistan,,237045,1637
+Vanuatu,,95,1
+Venezuela,,517164,5652
+Vietnam,,5042036,41086
+West Bank and Gaza,,652763,5588
+Winter Olympics 2022,,533,0
+Yemen,,11781,2138
+Zambia,,314641,3960
+Zimbabwe,,240343,5400
